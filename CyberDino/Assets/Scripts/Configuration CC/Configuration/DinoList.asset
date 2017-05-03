@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d26e6d43923fbc448bcc5cfa27b14f3b, type: 3}
+  m_Name: DinoList
+  m_EditorClassIdentifier: 
+  dinos:
+  - {fileID: 11400000, guid: 403eae24475cc4c4cbb552127cf0b168, type: 2}
+  - {fileID: 11400000, guid: f88bbc5b2c1eb464eaf40d53c4042c46, type: 2}
+  - {fileID: 11400000, guid: 9a3aa302fc93f5e448f577589bd8794c, type: 2}
+  - {fileID: 11400000, guid: 0dc7f7df55905a64094166c0d21303ce, type: 2}

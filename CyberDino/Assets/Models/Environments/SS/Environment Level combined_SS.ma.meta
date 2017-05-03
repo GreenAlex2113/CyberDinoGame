@@ -1,0 +1,2743 @@
+fileFormatVersion: 2
+guid: 42a411d2b7ffd8640bba545b4b5b329c
+timeCreated: 1493490079
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ADN_Base_CPath02_1
+    100002: ADN_Base_CPath02_2
+    100004: ADN_Base_CPath02_3
+    100006: ADN_Base_CPath02_4
+    100008: ADN_Base_CPath02_5
+    100010: ADN_Base_CPath_1
+    100012: ADN_Base_CPath_2
+    100014: ADN_Base_CPath_3
+    100016: ADN_Base_CPath_4
+    100018: ADN_Base_CPath_5
+    100020: ADN_GeoNurbsPipe_1
+    100022: ADN_GeoNurbsPipe_2
+    100024: ADN_GeoNurbsPipe_3
+    100026: ADN_GeoNurbsPipe_4
+    100028: ADN_GeoNurbsPipe_5
+    100030: ADN_GeoPath_1
+    100032: ADN_GeoPath_2
+    100034: ADN_GeoPath_3
+    100036: ADN_GeoPath_4
+    100038: ADN_GeoPath_5
+    100040: ADN_GeoProfile_1
+    100042: ADN_GeoProfile_2
+    100044: ADN_GeoProfile_3
+    100046: ADN_GeoProfile_4
+    100048: ADN_GeoProfile_5
+    100050: ADN_NewPipe_HGroup_1
+    100052: ADN_NewPipe_HGroup_2
+    100054: ADN_NewPipe_HGroup_3
+    100056: ADN_NewPipe_HGroup_4
+    100058: ADN_NewPipe_HGroup_5
+    100060: ADN_OFSTNCV
+    100062: ADN_OFSTNCV 1
+    100064: ADN_OFSTNCV 2
+    100066: ADN_OFSTNCV 3
+    100068: ADN_OFSTNCV 4
+    100070: Base
+    100072: Base 1
+    100074: Base 10
+    100076: Base 11
+    100078: Base 2
+    100080: Base 3
+    100082: Base 4
+    100084: Base 5
+    100086: Base 6
+    100088: Base 7
+    100090: Base 8
+    100092: Base 9
+    100094: Belt
+    100096: Belt 1
+    100098: BottomLevel
+    100100: BottomPipes
+    100102: BottomPipes 1
+    100104: cables
+    100106: CavePillars
+    100108: CavePipesTop
+    100110: ceiling
+    100112: CeilingBody
+    100114: CeilingBodyTrim
+    100116: CeilingCrest
+    100118: CeilingPipe_1
+    100120: CeilingPipe_1 1
+    100122: CeilingPipe_12
+    100124: CeilingPipe_12 1
+    100126: CeilingPipe_2
+    100128: CeilingPipe_2 1
+    100130: CeilingPipe_3
+    100132: CeilingPipe_3 1
+    100134: CeilingPipe_4
+    100136: CeilingPipe_4 1
+    100138: CeilingPipe_7
+    100140: CeilingPipe_7 1
+    100142: CeilingPipe_8
+    100144: CeilingPipe_8 1
+    100146: CeilingPipe_9
+    100148: CeilingPipe_9 1
+    100150: CeilingRidge_2
+    100152: Cells
+    100154: Cells 1
+    100156: Cells 2
+    100158: Chest
+    100160: Chest 1
+    100162: Chest 2
+    100164: Chest 3
+    100166: ChestArmor
+    100168: ChestArmor 1
+    100170: CityScapeProtoType:CitySpin_1
+    100172: CityScapeProtoType:ScrapersInner
+    100174: CityScapeProtoType:ScrapersOuter
+    100176: CityScapeProtoType:SkyScraper_1
+    100178: CityScapeProtoType:SkyScraper_10
+    100180: CityScapeProtoType:SkyScraper_13
+    100182: CityScapeProtoType:SkyScraper_14
+    100184: CityScapeProtoType:SkyScraper_15
+    100186: CityScapeProtoType:SkyScraper_16
+    100188: CityScapeProtoType:SkyScraper_19
+    100190: CityScapeProtoType:SkyScraper_20
+    100192: CityScapeProtoType:SkyScraper_21
+    100194: CityScapeProtoType:SkyScraper_24
+    100196: CityScapeProtoType:SkyScraper_25
+    100198: CityScapeProtoType:SkyScraper_26
+    100200: CityScapeProtoType:SkyScraper_27
+    100202: CityScapeProtoType:SkyScraper_28
+    100204: CityScapeProtoType:SkyScraper_29
+    100206: CityScapeProtoType:SkyScraper_34
+    100208: CityScapeProtoType:SkyScraper_35
+    100210: CityScapeProtoType:SkyScraper_4
+    100212: CityScapeProtoType:SkyScraper_5
+    100214: CityScapeProtoType:SkyScraper_8
+    100216: CityScapeProtoType:SkyScraper_9
+    100218: CityScapeProtoType:Spin_2
+    100220: CitySpin_1
+    100222: ConcreteBody
+    100224: ConcreteBody 1
+    100226: crate_cylinder:pCube14
+    100228: Crater1
+    100230: CrystalGroup1
+    100232: CrystalGroup1 1
+    100234: CrystalGroup2
+    100236: CrystalGroup2 1
+    100238: DinoCam
+    100240: directionalLight1
+    100242: directionalLight2
+    100244: //RootNode
+    100246: environment_level_4:polySurface1
+    100248: environment_level_4:rock19
+    100250: Fan
+    100252: Fan_Rotate
+    100254: Fan_Rotate1
+    100256: Fan_Rotate2
+    100258: Fan_Rotate3
+    100260: Fan_Rotate4
+    100262: Fan_Rotate5
+    100264: Floor
+    100266: Floor_1
+    100268: frontVenting
+    100270: frontVenting 1
+    100272: GaurdRail
+    100274: GaurdRail 1
+    100276: Glass
+    100278: Glass 1
+    100280: GlassPillar
+    100282: GlassPillar1
+    100284: GlassPillar2
+    100286: GlassPillar3
+    100288: GlassPillar4
+    100290: GlassPillar5
+    100292: GlassPillar6
+    100294: GlassPillar7
+    100296: GlassPillars
+    100298: Grate
+    100300: Grate 1
+    100302: Grate 2
+    100304: Grate 3
+    100306: group1
+    100308: group1 1
+    100310: group2
+    100312: group3
+    100314: Head
+    100316: Head 1
+    100318: InnerPipes
+    100320: InnerPipes 1
+    100322: InnerRimFence
+    100324: L_Arm
+    100326: L_Arm 1
+    100328: Lights
+    100330: LvlBottom
+    100332: LvlMid
+    100334: LvlTop
+    100336: MidLevel
+    100338: MidLevel2
+    100340: MIdWallBrace
+    100342: MIdWallBrace1
+    100344: MIdWallBrace10
+    100346: MIdWallBrace11
+    100348: MIdWallBrace12
+    100350: MIdWallBrace13
+    100352: MIdWallBrace14
+    100354: MIdWallBrace2
+    100356: MIdWallBrace3
+    100358: MIdWallBrace4
+    100360: MIdWallBrace5
+    100362: MIdWallBrace6
+    100364: MIdWallBrace7
+    100366: MIdWallBrace8
+    100368: MIdWallBrace9
+    100370: MidWallBraces
+    100372: New_QP_PolyPipe_1
+    100374: New_QP_PolyPipe_10
+    100376: New_QP_PolyPipe_10 1
+    100378: New_QP_PolyPipe_11
+    100380: New_QP_PolyPipe_11 1
+    100382: New_QP_PolyPipe_19
+    100384: New_QP_PolyPipe_19 1
+    100386: New_QP_PolyPipe_19 2
+    100388: New_QP_PolyPipe_2
+    100390: New_QP_PolyPipe_20
+    100392: New_QP_PolyPipe_20 1
+    100394: New_QP_PolyPipe_20 2
+    100396: New_QP_PolyPipe_21
+    100398: New_QP_PolyPipe_21 1
+    100400: New_QP_PolyPipe_21 2
+    100402: New_QP_PolyPipe_3
+    100404: New_QP_PolyPipe_4
+    100406: New_QP_PolyPipe_5
+    100408: New_QP_PolyPipe_5 1
+    100410: New_QP_PolyPipe_6
+    100412: New_QP_PolyPipe_6 1
+    100414: New_QP_PolyPipe_8
+    100416: New_QP_PolyPipe_8 1
+    100418: New_QP_PolyPipe_9
+    100420: New_QP_PolyPipe_9 1
+    100422: OuterFloorBody
+    100424: OuterWall
+    100426: pCube10
+    100428: pCube10 1
+    100430: pCube10 2
+    100432: pCube10 3
+    100434: pCube10 4
+    100436: pCube13
+    100438: pCube13 1
+    100440: pCube14
+    100442: pCube14 1
+    100444: pCube15
+    100446: pCube15 1
+    100448: pCube16
+    100450: pCube16 1
+    100452: pCube17
+    100454: pCube17 1
+    100456: pCube18
+    100458: pCube18 1
+    100460: pCube20
+    100462: pCube20 1
+    100464: pCube20 2
+    100466: pCube20 3
+    100468: pCube21
+    100470: pCube21 1
+    100472: pCube21 2
+    100474: pCube21 3
+    100476: pCube22
+    100478: pCube22 1
+    100480: pCube23
+    100482: pCube23 1
+    100484: pCube23 2
+    100486: pCube24
+    100488: pCube24 1
+    100490: pCube25
+    100492: pCube25 1
+    100494: pCube26
+    100496: pCube26 1
+    100498: pCube27
+    100500: pCube27 1
+    100502: pCube28
+    100504: pCube28 1
+    100506: pCube29
+    100508: pCube29 1
+    100510: pCube37
+    100512: pCube38
+    100514: pCube39
+    100516: pCube40
+    100518: pCube5
+    100520: pCube5 1
+    100522: pCube5 2
+    100524: pCube5 3
+    100526: pCube6
+    100528: pCube6 1
+    100530: pCube6 2
+    100532: pCube6 3
+    100534: pCube7
+    100536: pCube7 1
+    100538: pCube7 2
+    100540: pCube7 3
+    100542: pCube8
+    100544: pCube8 1
+    100546: pCube8 2
+    100548: pCube8 3
+    100550: pCube9
+    100552: pCube9 1
+    100554: pCube9 2
+    100556: pCube9 3
+    100558: pCylinder1
+    100560: pCylinder1 1
+    100562: pCylinder1 2
+    100564: pCylinder10
+    100566: pCylinder10 1
+    100568: pCylinder10 10
+    100570: pCylinder10 11
+    100572: pCylinder10 12
+    100574: pCylinder10 13
+    100576: pCylinder10 14
+    100578: pCylinder10 15
+    100580: pCylinder10 16
+    100582: pCylinder10 17
+    100584: pCylinder10 18
+    100586: pCylinder10 19
+    100588: pCylinder10 2
+    100590: pCylinder10 20
+    100592: pCylinder10 21
+    100594: pCylinder10 22
+    100596: pCylinder10 23
+    100598: pCylinder10 3
+    100600: pCylinder10 4
+    100602: pCylinder10 5
+    100604: pCylinder10 6
+    100606: pCylinder10 7
+    100608: pCylinder10 8
+    100610: pCylinder10 9
+    100612: pCylinder11
+    100614: pCylinder11 1
+    100616: pCylinder11 10
+    100618: pCylinder11 11
+    100620: pCylinder11 12
+    100622: pCylinder11 13
+    100624: pCylinder11 14
+    100626: pCylinder11 15
+    100628: pCylinder11 16
+    100630: pCylinder11 17
+    100632: pCylinder11 18
+    100634: pCylinder11 19
+    100636: pCylinder11 2
+    100638: pCylinder11 20
+    100640: pCylinder11 21
+    100642: pCylinder11 22
+    100644: pCylinder11 23
+    100646: pCylinder11 3
+    100648: pCylinder11 4
+    100650: pCylinder11 5
+    100652: pCylinder11 6
+    100654: pCylinder11 7
+    100656: pCylinder11 8
+    100658: pCylinder11 9
+    100660: pCylinder12
+    100662: pCylinder12 1
+    100664: pCylinder12 10
+    100666: pCylinder12 11
+    100668: pCylinder12 12
+    100670: pCylinder12 13
+    100672: pCylinder12 14
+    100674: pCylinder12 15
+    100676: pCylinder12 16
+    100678: pCylinder12 17
+    100680: pCylinder12 18
+    100682: pCylinder12 19
+    100684: pCylinder12 2
+    100686: pCylinder12 20
+    100688: pCylinder12 21
+    100690: pCylinder12 22
+    100692: pCylinder12 23
+    100694: pCylinder12 3
+    100696: pCylinder12 4
+    100698: pCylinder12 5
+    100700: pCylinder12 6
+    100702: pCylinder12 7
+    100704: pCylinder12 8
+    100706: pCylinder12 9
+    100708: pCylinder13
+    100710: pCylinder18
+    100712: pCylinder19
+    100714: pCylinder2
+    100716: pCylinder2 1
+    100718: pCylinder2 2
+    100720: pCylinder2 3
+    100722: pCylinder2 4
+    100724: pCylinder2 5
+    100726: pCylinder2 6
+    100728: pCylinder20
+    100730: pCylinder20 1
+    100732: pCylinder20 2
+    100734: pCylinder20 3
+    100736: pCylinder20 4
+    100738: pCylinder20 5
+    100740: pCylinder21
+    100742: pCylinder21 1
+    100744: pCylinder21 2
+    100746: pCylinder21 3
+    100748: pCylinder21 4
+    100750: pCylinder21 5
+    100752: pCylinder22
+    100754: pCylinder23
+    100756: pCylinder28
+    100758: pCylinder3
+    100760: pCylinder3 1
+    100762: pCylinder3 2
+    100764: pCylinder3 3
+    100766: pCylinder3 4
+    100768: pCylinder3 5
+    100770: pCylinder3 6
+    100772: pCylinder3 7
+    100774: pCylinder3 8
+    100776: pCylinder4
+    100778: pCylinder4 1
+    100780: pCylinder6
+    100782: pCylinder6 1
+    100784: pCylinder6 10
+    100786: pCylinder6 11
+    100788: pCylinder6 12
+    100790: pCylinder6 13
+    100792: pCylinder6 14
+    100794: pCylinder6 15
+    100796: pCylinder6 2
+    100798: pCylinder6 3
+    100800: pCylinder6 4
+    100802: pCylinder6 5
+    100804: pCylinder6 6
+    100806: pCylinder6 7
+    100808: pCylinder6 8
+    100810: pCylinder6 9
+    100812: pCylinder7
+    100814: pCylinder7 1
+    100816: pCylinder7 10
+    100818: pCylinder7 11
+    100820: pCylinder7 12
+    100822: pCylinder7 13
+    100824: pCylinder7 14
+    100826: pCylinder7 15
+    100828: pCylinder7 2
+    100830: pCylinder7 3
+    100832: pCylinder7 4
+    100834: pCylinder7 5
+    100836: pCylinder7 6
+    100838: pCylinder7 7
+    100840: pCylinder7 8
+    100842: pCylinder7 9
+    100844: Pedastal
+    100846: Pedastal 1
+    100848: Pedastal 2
+    100850: Pillars_lf
+    100852: Pillars_rt
+    100854: Pipe_Release:pCylinder28
+    100856: PipeArch_1
+    100858: PipeArch_2
+    100860: pointLight1
+    100862: pointLight2
+    100864: pointLight3
+    100866: pointLight4
+    100868: pointLight5
+    100870: pointLight6
+    100872: polySurface1
+    100874: polySurface10
+    100876: polySurface11
+    100878: polySurface13
+    100880: polySurface13 1
+    100882: polySurface13 10
+    100884: polySurface13 11
+    100886: polySurface13 12
+    100888: polySurface13 13
+    100890: polySurface13 14
+    100892: polySurface13 2
+    100894: polySurface13 3
+    100896: polySurface13 4
+    100898: polySurface13 5
+    100900: polySurface13 6
+    100902: polySurface13 7
+    100904: polySurface13 8
+    100906: polySurface13 9
+    100908: polySurface14
+    100910: polySurface15
+    100912: polySurface2
+    100914: polySurface3
+    100916: polySurface4
+    100918: polySurface9
+    100920: PowerCables_1
+    100922: PowerCables_2
+    100924: PowerCables_3
+    100926: PowerCell_1
+    100928: PowerCell_1 1
+    100930: PowerCell_1 2
+    100932: PowerCell_2
+    100934: PowerCell_2 1
+    100936: PowerCell_2 2
+    100938: PowerCell_3
+    100940: PowerCell_3 1
+    100942: PowerCell_3 2
+    100944: PowerCell_4
+    100946: PowerCell_4 1
+    100948: PowerCell_4 2
+    100950: PowerCell_5
+    100952: PowerCell_5 1
+    100954: PowerCell_5 2
+    100956: PowerCell_6
+    100958: PowerCell_6 1
+    100960: PowerCell_6 2
+    100962: PowerCell_7
+    100964: PowerCell_7 1
+    100966: PowerCell_7 2
+    100968: PowerCell_8
+    100970: PowerCell_8 1
+    100972: PowerCell_8 2
+    100974: PowerStatue_1
+    100976: PowerStatue_2
+    100978: PowerStatue_3
+    100980: pPlane1
+    100982: pSphere1
+    100984: pSphere1 1
+    100986: pSphere1 2
+    100988: pSphere1 3
+    100990: pSphere10
+    100992: pSphere11
+    100994: pSphere12
+    100996: pSphere14
+    100998: pSphere15
+    101000: pSphere16
+    101002: pSphere17
+    101004: pSphere18
+    101006: pSphere19
+    101008: pSphere2
+    101010: pSphere3
+    101012: pSphere4
+    101014: pSphere5
+    101016: pSphere6
+    101018: pSphere7
+    101020: pSphere8
+    101022: pSphere9
+    101024: pTorus1
+    101026: pTorus1 1
+    101028: pTorus1 2
+    101030: pTorus2
+    101032: pTorus3
+    101034: pTorus4
+    101036: pTorus5
+    101038: pTorus6
+    101040: pTorus7
+    101042: pTorus8
+    101044: R_Arm
+    101046: R_Arm 1
+    101048: RailSupports
+    101050: RailSupports 1
+    101052: Ramp_lf
+    101054: Ramp_rt
+    101056: RampBase1
+    101058: RampBase3
+    101060: RampBody
+    101062: RampBody 1
+    101064: RampRail
+    101066: RampRail 1
+    101068: RampRail 2
+    101070: RampRail 3
+    101072: Ramps
+    101074: Ramps 1
+    101076: Ramps1
+    101078: Ramps2
+    101080: Ramps3
+    101082: RB_Props:bottom
+    101084: RB_Props:pCube27
+    101086: RB_Props:pCube28
+    101088: RB_Props:pCube29
+    101090: RB_Props:pCube30
+    101092: RB_Props:pCube31
+    101094: RB_Props:pCube32
+    101096: RB_Props:pCube33
+    101098: RB_Props:pCube34
+    101100: RB_Props:pCube35
+    101102: RB_Props:pCube37
+    101104: RB_Props:pCube7
+    101106: RB_Props:pCylinder6
+    101108: RB_Props:pCylinder7
+    101110: RearCavern
+    101112: RearCrestFloor
+    101114: RearCrestFloor2
+    101116: ReclicSpires
+    101118: Relic
+    101120: relic:pSphere1
+    101122: RelicPowerConduits
+    101124: RelicRings
+    101126: Rocks_JA:DinoCam
+    101128: Rocks_JA:OuterFloorBody1
+    101130: Rocks_JA:rock1
+    101132: Rocks_JA:rock1 1
+    101134: Rocks_JA:rock1 2
+    101136: Rocks_JA:rock10
+    101138: Rocks_JA:rock10 1
+    101140: Rocks_JA:rock10 2
+    101142: Rocks_JA:rock11
+    101144: Rocks_JA:rock12
+    101146: Rocks_JA:rock12 1
+    101148: Rocks_JA:rock12 2
+    101150: Rocks_JA:rock13
+    101152: Rocks_JA:rock13 1
+    101154: Rocks_JA:rock13 2
+    101156: Rocks_JA:rock14
+    101158: Rocks_JA:rock14 1
+    101160: Rocks_JA:rock14 2
+    101162: Rocks_JA:rock15
+    101164: Rocks_JA:rock16
+    101166: Rocks_JA:rock16 1
+    101168: Rocks_JA:rock16 2
+    101170: Rocks_JA:rock17
+    101172: Rocks_JA:rock17 1
+    101174: Rocks_JA:rock17 2
+    101176: Rocks_JA:rock18
+    101178: Rocks_JA:rock18 1
+    101180: Rocks_JA:rock19
+    101182: Rocks_JA:rock2
+    101184: Rocks_JA:rock2 1
+    101186: Rocks_JA:rock2 2
+    101188: Rocks_JA:rock20
+    101190: Rocks_JA:rock3
+    101192: Rocks_JA:rock3 1
+    101194: Rocks_JA:rock3 2
+    101196: Rocks_JA:rock4
+    101198: Rocks_JA:rock4 1
+    101200: Rocks_JA:rock4 2
+    101202: Rocks_JA:rock5
+    101204: Rocks_JA:rock5 1
+    101206: Rocks_JA:rock5 2
+    101208: Rocks_JA:rock6
+    101210: Rocks_JA:rock6 1
+    101212: Rocks_JA:rock6 2
+    101214: Rocks_JA:rock7
+    101216: Rocks_JA:rock7 1
+    101218: Rocks_JA:rock7 2
+    101220: Rocks_JA:rock8
+    101222: Rocks_JA:rock8 1
+    101224: Rocks_JA:rock8 2
+    101226: Rocks_JA:rock9
+    101228: Rocks_JA:rock9 1
+    101230: Rocks_JA:rock9 2
+    101232: Rocks_JA:Rocks
+    101234: Rocks_JA:Rocks1
+    101236: Rocks_JA:Rocks2
+    101238: RoughDraft
+    101240: SidePipes
+    101242: SidePipes 1
+    101244: Skull
+    101246: Skull 1
+    101248: Spire
+    101250: Spire 1
+    101252: Spire 10
+    101254: Spire 11
+    101256: Spire 2
+    101258: Spire 3
+    101260: Spire 4
+    101262: Spire 5
+    101264: Spire 6
+    101266: Spire 7
+    101268: Spire 8
+    101270: Spire 9
+    101272: Statue
+    101274: Statue1_TT:Belt
+    101276: Statue1_TT:Chest
+    101278: Statue1_TT:Chest 1
+    101280: Statue1_TT:ChestArmor
+    101282: Statue1_TT:CrystalGroup1
+    101284: Statue1_TT:CrystalGroup2
+    101286: Statue1_TT:Head
+    101288: Statue1_TT:L_Arm
+    101290: Statue1_TT:pCube10
+    101292: Statue1_TT:pCube10 1
+    101294: Statue1_TT:pCube13
+    101296: Statue1_TT:pCube14
+    101298: Statue1_TT:pCube15
+    101300: Statue1_TT:pCube16
+    101302: Statue1_TT:pCube17
+    101304: Statue1_TT:pCube18
+    101306: Statue1_TT:pCube20
+    101308: Statue1_TT:pCube20 1
+    101310: Statue1_TT:pCube21
+    101312: Statue1_TT:pCube21 1
+    101314: Statue1_TT:pCube22
+    101316: Statue1_TT:pCube23
+    101318: Statue1_TT:pCube24
+    101320: Statue1_TT:pCube25
+    101322: Statue1_TT:pCube26
+    101324: Statue1_TT:pCube27
+    101326: Statue1_TT:pCube28
+    101328: Statue1_TT:pCube29
+    101330: Statue1_TT:pCube5
+    101332: Statue1_TT:pCube5 1
+    101334: Statue1_TT:pCube6
+    101336: Statue1_TT:pCube6 1
+    101338: Statue1_TT:pCube7
+    101340: Statue1_TT:pCube7 1
+    101342: Statue1_TT:pCube8
+    101344: Statue1_TT:pCube8 1
+    101346: Statue1_TT:pCube9
+    101348: Statue1_TT:pCube9 1
+    101350: Statue1_TT:pCylinder1
+    101352: Statue1_TT:pCylinder2
+    101354: Statue1_TT:pCylinder3
+    101356: Statue1_TT:pCylinder3 1
+    101358: Statue1_TT:pCylinder4
+    101360: Statue1_TT:pSphere1
+    101362: Statue1_TT:pTorus1
+    101364: Statue1_TT:R_Arm
+    101366: Statue1_TT:Skull
+    101368: Statue1_TT:Statue
+    101370: Statue2
+    101372: Statue_Chest_Belt_pCube17
+    101374: Statue_Chest_Belt_pCube17_MeshPart0
+    101376: Statue_Chest_Belt_pCube17_MeshPart1
+    101378: Statue_Chest_Belt_pCube17_MeshPart2
+    101380: Statue_Chest_Belt_pCube17_MeshPart3
+    101382: StatueBase
+    101384: StatueBase 1
+    101386: StatueBase 2
+    101388: Statues
+    101390: TopArches
+    101392: TopFloor
+    101394: TopPipe
+    101396: TopPipe 1
+    101398: TopSegment_1
+    101400: TopSegment_2
+    101402: TopSegment_3
+    101404: TopSegment_4
+    101406: transform1
+    101408: transform10
+    101410: transform100
+    101412: transform101
+    101414: transform102
+    101416: transform103
+    101418: transform104
+    101420: transform105
+    101422: transform106
+    101424: transform107
+    101426: transform108
+    101428: transform109
+    101430: transform11
+    101432: transform110
+    101434: transform111
+    101436: transform112
+    101438: transform113
+    101440: transform114
+    101442: transform115
+    101444: transform116
+    101446: transform117
+    101448: transform118
+    101450: transform119
+    101452: transform12
+    101454: transform120
+    101456: transform121
+    101458: transform122
+    101460: transform123
+    101462: transform124
+    101464: transform125
+    101466: transform126
+    101468: transform127
+    101470: transform128
+    101472: transform129
+    101474: transform13
+    101476: transform130
+    101478: transform131
+    101480: transform132
+    101482: transform133
+    101484: transform134
+    101486: transform135
+    101488: transform136
+    101490: transform137
+    101492: transform138
+    101494: transform139
+    101496: transform14
+    101498: transform140
+    101500: transform141
+    101502: transform142
+    101504: transform143
+    101506: transform144
+    101508: transform145
+    101510: transform146
+    101512: transform147
+    101514: transform148
+    101516: transform149
+    101518: transform15
+    101520: transform150
+    101522: transform151
+    101524: transform152
+    101526: transform153
+    101528: transform154
+    101530: transform155
+    101532: transform156
+    101534: transform157
+    101536: transform158
+    101538: transform159
+    101540: transform16
+    101542: transform160
+    101544: transform161
+    101546: transform162
+    101548: transform163
+    101550: transform164
+    101552: transform165
+    101554: transform166
+    101556: transform167
+    101558: transform168
+    101560: transform169
+    101562: transform17
+    101564: transform170
+    101566: transform171
+    101568: transform172
+    101570: transform173
+    101572: transform174
+    101574: transform175
+    101576: transform176
+    101578: transform177
+    101580: transform178
+    101582: transform179
+    101584: transform18
+    101586: transform180
+    101588: transform181
+    101590: transform182
+    101592: transform183
+    101594: transform184
+    101596: transform185
+    101598: transform186
+    101600: transform187
+    101602: transform188
+    101604: transform189
+    101606: transform19
+    101608: transform190
+    101610: transform191
+    101612: transform192
+    101614: transform193
+    101616: transform194
+    101618: transform195
+    101620: transform196
+    101622: transform197
+    101624: transform198
+    101626: transform199
+    101628: transform2
+    101630: transform20
+    101632: transform200
+    101634: transform201
+    101636: transform202
+    101638: transform203
+    101640: transform204
+    101642: transform205
+    101644: transform206
+    101646: transform207
+    101648: transform208
+    101650: transform209
+    101652: transform21
+    101654: transform210
+    101656: transform211
+    101658: transform212
+    101660: transform213
+    101662: transform214
+    101664: transform215
+    101666: transform216
+    101668: transform217
+    101670: transform218
+    101672: transform219
+    101674: transform22
+    101676: transform220
+    101678: transform221
+    101680: transform222
+    101682: transform223
+    101684: transform224
+    101686: transform225
+    101688: transform226
+    101690: transform227
+    101692: transform228
+    101694: transform229
+    101696: transform23
+    101698: transform230
+    101700: transform231
+    101702: transform232
+    101704: transform233
+    101706: transform234
+    101708: transform235
+    101710: transform236
+    101712: transform237
+    101714: transform238
+    101716: transform239
+    101718: transform24
+    101720: transform240
+    101722: transform241
+    101724: transform242
+    101726: transform243
+    101728: transform244
+    101730: transform245
+    101732: transform246
+    101734: transform247
+    101736: transform248
+    101738: transform249
+    101740: transform25
+    101742: transform250
+    101744: transform251
+    101746: transform252
+    101748: transform253
+    101750: transform254
+    101752: transform255
+    101754: transform256
+    101756: transform257
+    101758: transform258
+    101760: transform259
+    101762: transform26
+    101764: transform260
+    101766: transform261
+    101768: transform262
+    101770: transform263
+    101772: transform264
+    101774: transform265
+    101776: transform266
+    101778: transform267
+    101780: transform268
+    101782: transform269
+    101784: transform27
+    101786: transform270
+    101788: transform271
+    101790: transform272
+    101792: transform273
+    101794: transform274
+    101796: transform275
+    101798: transform276
+    101800: transform277
+    101802: transform278
+    101804: transform279
+    101806: transform28
+    101808: transform280
+    101810: transform281
+    101812: transform282
+    101814: transform283
+    101816: transform284
+    101818: transform285
+    101820: transform286
+    101822: transform287
+    101824: transform288
+    101826: transform289
+    101828: transform29
+    101830: transform290
+    101832: transform291
+    101834: transform292
+    101836: transform293
+    101838: transform294
+    101840: transform295
+    101842: transform296
+    101844: transform297
+    101846: transform298
+    101848: transform299
+    101850: transform3
+    101852: transform30
+    101854: transform300
+    101856: transform301
+    101858: transform302
+    101860: transform303
+    101862: transform304
+    101864: transform305
+    101866: transform306
+    101868: transform307
+    101870: transform308
+    101872: transform309
+    101874: transform31
+    101876: transform310
+    101878: transform311
+    101880: transform312
+    101882: transform313
+    101884: transform314
+    101886: transform315
+    101888: transform316
+    101890: transform317
+    101892: transform318
+    101894: transform319
+    101896: transform32
+    101898: transform320
+    101900: transform321
+    101902: transform322
+    101904: transform323
+    101906: transform324
+    101908: transform325
+    101910: transform326
+    101912: transform327
+    101914: transform328
+    101916: transform329
+    101918: transform33
+    101920: transform330
+    101922: transform331
+    101924: transform332
+    101926: transform333
+    101928: transform334
+    101930: transform335
+    101932: transform336
+    101934: transform337
+    101936: transform338
+    101938: transform339
+    101940: transform34
+    101942: transform340
+    101944: transform341
+    101946: transform342
+    101948: transform343
+    101950: transform344
+    101952: transform345
+    101954: transform346
+    101956: transform347
+    101958: transform348
+    101960: transform349
+    101962: transform35
+    101964: transform350
+    101966: transform351
+    101968: transform352
+    101970: transform353
+    101972: transform354
+    101974: transform355
+    101976: transform356
+    101978: transform357
+    101980: transform358
+    101982: transform359
+    101984: transform36
+    101986: transform360
+    101988: transform361
+    101990: transform362
+    101992: transform363
+    101994: transform364
+    101996: transform365
+    101998: transform366
+    102000: transform367
+    102002: transform368
+    102004: transform369
+    102006: transform37
+    102008: transform370
+    102010: transform371
+    102012: transform372
+    102014: transform373
+    102016: transform374
+    102018: transform375
+    102020: transform376
+    102022: transform377
+    102024: transform378
+    102026: transform379
+    102028: transform38
+    102030: transform380
+    102032: transform381
+    102034: transform382
+    102036: transform383
+    102038: transform384
+    102040: transform385
+    102042: transform386
+    102044: transform387
+    102046: transform388
+    102048: transform389
+    102050: transform39
+    102052: transform390
+    102054: transform391
+    102056: transform392
+    102058: transform393
+    102060: transform394
+    102062: transform395
+    102064: transform396
+    102066: transform397
+    102068: transform398
+    102070: transform399
+    102072: transform4
+    102074: transform40
+    102076: transform400
+    102078: transform401
+    102080: transform402
+    102082: transform403
+    102084: transform404
+    102086: transform405
+    102088: transform406
+    102090: transform407
+    102092: transform408
+    102094: transform409
+    102096: transform41
+    102098: transform410
+    102100: transform411
+    102102: transform412
+    102104: transform413
+    102106: transform414
+    102108: transform415
+    102110: transform416
+    102112: transform417
+    102114: transform418
+    102116: transform419
+    102118: transform42
+    102120: transform420
+    102122: transform421
+    102124: transform422
+    102126: transform423
+    102128: transform424
+    102130: transform425
+    102132: transform426
+    102134: transform427
+    102136: transform428
+    102138: transform429
+    102140: transform43
+    102142: transform430
+    102144: transform431
+    102146: transform432
+    102148: transform433
+    102150: transform434
+    102152: transform435
+    102154: transform436
+    102156: transform437
+    102158: transform438
+    102160: transform439
+    102162: transform44
+    102164: transform440
+    102166: transform441
+    102168: transform442
+    102170: transform45
+    102172: transform46
+    102174: transform47
+    102176: transform48
+    102178: transform49
+    102180: transform5
+    102182: transform50
+    102184: transform51
+    102186: transform52
+    102188: transform53
+    102190: transform54
+    102192: transform55
+    102194: transform56
+    102196: transform57
+    102198: transform58
+    102200: transform59
+    102202: transform6
+    102204: transform60
+    102206: transform61
+    102208: transform62
+    102210: transform63
+    102212: transform64
+    102214: transform65
+    102216: transform66
+    102218: transform67
+    102220: transform68
+    102222: transform69
+    102224: transform7
+    102226: transform70
+    102228: transform71
+    102230: transform72
+    102232: transform73
+    102234: transform74
+    102236: transform75
+    102238: transform76
+    102240: transform77
+    102242: transform78
+    102244: transform79
+    102246: transform8
+    102248: transform80
+    102250: transform81
+    102252: transform82
+    102254: transform83
+    102256: transform84
+    102258: transform85
+    102260: transform86
+    102262: transform87
+    102264: transform88
+    102266: transform89
+    102268: transform9
+    102270: transform90
+    102272: transform91
+    102274: transform92
+    102276: transform93
+    102278: transform94
+    102280: transform95
+    102282: transform96
+    102284: transform97
+    102286: transform98
+    102288: transform99
+    102290: tree_plant:group1
+    102292: tree_plant:imagePlane1
+    102294: tree_plant:pCube1
+    102296: tree_plant:pCube2
+    102298: tree_plant:pCylinder1
+    102300: tree_plant:pCylinder2
+    102302: tree_plant:pCylinder3
+    102304: tree_plant:pSphere1
+    102306: tree_plant:pSphere2
+    102308: tree_plant:pSphere3
+    102310: tree_plant:pSphere4
+    102312: tree_plant:pSphere5
+    102314: tree_plant:pSphere6
+    102316: TunnelPipe
+    102318: TunnelPipe 1
+    102320: TunnelPipe1
+    102322: TunnelPipe1 1
+    102324: TunnelPipeBody
+    102326: TunnelPipeBody 1
+    102328: TunnelPipeBody 2
+    102330: TunnelPipeBody 3
+    102332: TunnelPipeTrim
+    102334: TunnelPipeTrim 1
+    102336: TunnelPipeTrim 2
+    102338: TunnelPipeTrim 3
+    102340: UpperWallStruts
+    102342: UpperWallStruts 1
+    102344: UpperWallStruts 2
+    102346: UpperWallStruts 3
+    102348: vent_cylinder:pCube23
+    102350: WallComponents
+    102352: WallGrate
+    102354: WallGrate 1
+    102356: WallGrate 2
+    102358: WallGrate 3
+    102360: WallGrate 4
+    102362: WallGrate 5
+    102364: Wallgrate_1
+    102366: Wallgrate_1 1
+    102368: Wallgrate_1 2
+    102370: Wallgrate_1 3
+    102372: Wallgrate_2
+    102374: Wallgrate_2 1
+    102376: Wallgrate_2 2
+    102378: Wallgrate_2 3
+    102380: WallGrates
+    102382: WallGrates 1
+    102384: WallGrates 2
+    102386: WallGrates 3
+    102388: WallGrateTrim
+    102390: WallGrateTrim 1
+    102392: WallGrateTrim 2
+    102394: WallGrateTrim 3
+    102396: WallGrateTrim 4
+    102398: WallGrateTrim 5
+    102400: WallPipe
+    102402: WallPipe 1
+    102404: WallPipe 2
+    102406: WallPipe 3
+    102408: WallPipe 4
+    102410: WallPipe 5
+    102412: wallStrut_1
+    102414: wallStrut_1 1
+    102416: wallStrut_1 2
+    102418: wallStrut_1 3
+    102420: wallStrut_2
+    102422: wallStrut_2 1
+    102424: wallStrut_2 2
+    102426: wallStrut_2 3
+    102428: wallStrut_3
+    102430: wallStrut_3 1
+    102432: wallStrut_3 2
+    102434: wallStrut_4
+    102436: wallStrut_4 1
+    102438: wallStrut_4 2
+    102440: wallStrut_4 3
+    102442: wallStrut_5
+    102444: wallStrut_5 1
+    102446: wallStrut_5 2
+    400000: ADN_Base_CPath02_1
+    400002: ADN_Base_CPath02_2
+    400004: ADN_Base_CPath02_3
+    400006: ADN_Base_CPath02_4
+    400008: ADN_Base_CPath02_5
+    400010: ADN_Base_CPath_1
+    400012: ADN_Base_CPath_2
+    400014: ADN_Base_CPath_3
+    400016: ADN_Base_CPath_4
+    400018: ADN_Base_CPath_5
+    400020: ADN_GeoNurbsPipe_1
+    400022: ADN_GeoNurbsPipe_2
+    400024: ADN_GeoNurbsPipe_3
+    400026: ADN_GeoNurbsPipe_4
+    400028: ADN_GeoNurbsPipe_5
+    400030: ADN_GeoPath_1
+    400032: ADN_GeoPath_2
+    400034: ADN_GeoPath_3
+    400036: ADN_GeoPath_4
+    400038: ADN_GeoPath_5
+    400040: ADN_GeoProfile_1
+    400042: ADN_GeoProfile_2
+    400044: ADN_GeoProfile_3
+    400046: ADN_GeoProfile_4
+    400048: ADN_GeoProfile_5
+    400050: ADN_NewPipe_HGroup_1
+    400052: ADN_NewPipe_HGroup_2
+    400054: ADN_NewPipe_HGroup_3
+    400056: ADN_NewPipe_HGroup_4
+    400058: ADN_NewPipe_HGroup_5
+    400060: ADN_OFSTNCV
+    400062: ADN_OFSTNCV 1
+    400064: ADN_OFSTNCV 2
+    400066: ADN_OFSTNCV 3
+    400068: ADN_OFSTNCV 4
+    400070: Base
+    400072: Base 1
+    400074: Base 10
+    400076: Base 11
+    400078: Base 2
+    400080: Base 3
+    400082: Base 4
+    400084: Base 5
+    400086: Base 6
+    400088: Base 7
+    400090: Base 8
+    400092: Base 9
+    400094: Belt
+    400096: Belt 1
+    400098: BottomLevel
+    400100: BottomPipes
+    400102: BottomPipes 1
+    400104: cables
+    400106: CavePillars
+    400108: CavePipesTop
+    400110: ceiling
+    400112: CeilingBody
+    400114: CeilingBodyTrim
+    400116: CeilingCrest
+    400118: CeilingPipe_1
+    400120: CeilingPipe_1 1
+    400122: CeilingPipe_12
+    400124: CeilingPipe_12 1
+    400126: CeilingPipe_2
+    400128: CeilingPipe_2 1
+    400130: CeilingPipe_3
+    400132: CeilingPipe_3 1
+    400134: CeilingPipe_4
+    400136: CeilingPipe_4 1
+    400138: CeilingPipe_7
+    400140: CeilingPipe_7 1
+    400142: CeilingPipe_8
+    400144: CeilingPipe_8 1
+    400146: CeilingPipe_9
+    400148: CeilingPipe_9 1
+    400150: CeilingRidge_2
+    400152: Cells
+    400154: Cells 1
+    400156: Cells 2
+    400158: Chest
+    400160: Chest 1
+    400162: Chest 2
+    400164: Chest 3
+    400166: ChestArmor
+    400168: ChestArmor 1
+    400170: CityScapeProtoType:CitySpin_1
+    400172: CityScapeProtoType:ScrapersInner
+    400174: CityScapeProtoType:ScrapersOuter
+    400176: CityScapeProtoType:SkyScraper_1
+    400178: CityScapeProtoType:SkyScraper_10
+    400180: CityScapeProtoType:SkyScraper_13
+    400182: CityScapeProtoType:SkyScraper_14
+    400184: CityScapeProtoType:SkyScraper_15
+    400186: CityScapeProtoType:SkyScraper_16
+    400188: CityScapeProtoType:SkyScraper_19
+    400190: CityScapeProtoType:SkyScraper_20
+    400192: CityScapeProtoType:SkyScraper_21
+    400194: CityScapeProtoType:SkyScraper_24
+    400196: CityScapeProtoType:SkyScraper_25
+    400198: CityScapeProtoType:SkyScraper_26
+    400200: CityScapeProtoType:SkyScraper_27
+    400202: CityScapeProtoType:SkyScraper_28
+    400204: CityScapeProtoType:SkyScraper_29
+    400206: CityScapeProtoType:SkyScraper_34
+    400208: CityScapeProtoType:SkyScraper_35
+    400210: CityScapeProtoType:SkyScraper_4
+    400212: CityScapeProtoType:SkyScraper_5
+    400214: CityScapeProtoType:SkyScraper_8
+    400216: CityScapeProtoType:SkyScraper_9
+    400218: CityScapeProtoType:Spin_2
+    400220: CitySpin_1
+    400222: ConcreteBody
+    400224: ConcreteBody 1
+    400226: crate_cylinder:pCube14
+    400228: Crater1
+    400230: CrystalGroup1
+    400232: CrystalGroup1 1
+    400234: CrystalGroup2
+    400236: CrystalGroup2 1
+    400238: DinoCam
+    400240: directionalLight1
+    400242: directionalLight2
+    400244: //RootNode
+    400246: environment_level_4:polySurface1
+    400248: environment_level_4:rock19
+    400250: Fan
+    400252: Fan_Rotate
+    400254: Fan_Rotate1
+    400256: Fan_Rotate2
+    400258: Fan_Rotate3
+    400260: Fan_Rotate4
+    400262: Fan_Rotate5
+    400264: Floor
+    400266: Floor_1
+    400268: frontVenting
+    400270: frontVenting 1
+    400272: GaurdRail
+    400274: GaurdRail 1
+    400276: Glass
+    400278: Glass 1
+    400280: GlassPillar
+    400282: GlassPillar1
+    400284: GlassPillar2
+    400286: GlassPillar3
+    400288: GlassPillar4
+    400290: GlassPillar5
+    400292: GlassPillar6
+    400294: GlassPillar7
+    400296: GlassPillars
+    400298: Grate
+    400300: Grate 1
+    400302: Grate 2
+    400304: Grate 3
+    400306: group1
+    400308: group1 1
+    400310: group2
+    400312: group3
+    400314: Head
+    400316: Head 1
+    400318: InnerPipes
+    400320: InnerPipes 1
+    400322: InnerRimFence
+    400324: L_Arm
+    400326: L_Arm 1
+    400328: Lights
+    400330: LvlBottom
+    400332: LvlMid
+    400334: LvlTop
+    400336: MidLevel
+    400338: MidLevel2
+    400340: MIdWallBrace
+    400342: MIdWallBrace1
+    400344: MIdWallBrace10
+    400346: MIdWallBrace11
+    400348: MIdWallBrace12
+    400350: MIdWallBrace13
+    400352: MIdWallBrace14
+    400354: MIdWallBrace2
+    400356: MIdWallBrace3
+    400358: MIdWallBrace4
+    400360: MIdWallBrace5
+    400362: MIdWallBrace6
+    400364: MIdWallBrace7
+    400366: MIdWallBrace8
+    400368: MIdWallBrace9
+    400370: MidWallBraces
+    400372: New_QP_PolyPipe_1
+    400374: New_QP_PolyPipe_10
+    400376: New_QP_PolyPipe_10 1
+    400378: New_QP_PolyPipe_11
+    400380: New_QP_PolyPipe_11 1
+    400382: New_QP_PolyPipe_19
+    400384: New_QP_PolyPipe_19 1
+    400386: New_QP_PolyPipe_19 2
+    400388: New_QP_PolyPipe_2
+    400390: New_QP_PolyPipe_20
+    400392: New_QP_PolyPipe_20 1
+    400394: New_QP_PolyPipe_20 2
+    400396: New_QP_PolyPipe_21
+    400398: New_QP_PolyPipe_21 1
+    400400: New_QP_PolyPipe_21 2
+    400402: New_QP_PolyPipe_3
+    400404: New_QP_PolyPipe_4
+    400406: New_QP_PolyPipe_5
+    400408: New_QP_PolyPipe_5 1
+    400410: New_QP_PolyPipe_6
+    400412: New_QP_PolyPipe_6 1
+    400414: New_QP_PolyPipe_8
+    400416: New_QP_PolyPipe_8 1
+    400418: New_QP_PolyPipe_9
+    400420: New_QP_PolyPipe_9 1
+    400422: OuterFloorBody
+    400424: OuterWall
+    400426: pCube10
+    400428: pCube10 1
+    400430: pCube10 2
+    400432: pCube10 3
+    400434: pCube10 4
+    400436: pCube13
+    400438: pCube13 1
+    400440: pCube14
+    400442: pCube14 1
+    400444: pCube15
+    400446: pCube15 1
+    400448: pCube16
+    400450: pCube16 1
+    400452: pCube17
+    400454: pCube17 1
+    400456: pCube18
+    400458: pCube18 1
+    400460: pCube20
+    400462: pCube20 1
+    400464: pCube20 2
+    400466: pCube20 3
+    400468: pCube21
+    400470: pCube21 1
+    400472: pCube21 2
+    400474: pCube21 3
+    400476: pCube22
+    400478: pCube22 1
+    400480: pCube23
+    400482: pCube23 1
+    400484: pCube23 2
+    400486: pCube24
+    400488: pCube24 1
+    400490: pCube25
+    400492: pCube25 1
+    400494: pCube26
+    400496: pCube26 1
+    400498: pCube27
+    400500: pCube27 1
+    400502: pCube28
+    400504: pCube28 1
+    400506: pCube29
+    400508: pCube29 1
+    400510: pCube37
+    400512: pCube38
+    400514: pCube39
+    400516: pCube40
+    400518: pCube5
+    400520: pCube5 1
+    400522: pCube5 2
+    400524: pCube5 3
+    400526: pCube6
+    400528: pCube6 1
+    400530: pCube6 2
+    400532: pCube6 3
+    400534: pCube7
+    400536: pCube7 1
+    400538: pCube7 2
+    400540: pCube7 3
+    400542: pCube8
+    400544: pCube8 1
+    400546: pCube8 2
+    400548: pCube8 3
+    400550: pCube9
+    400552: pCube9 1
+    400554: pCube9 2
+    400556: pCube9 3
+    400558: pCylinder1
+    400560: pCylinder1 1
+    400562: pCylinder1 2
+    400564: pCylinder10
+    400566: pCylinder10 1
+    400568: pCylinder10 10
+    400570: pCylinder10 11
+    400572: pCylinder10 12
+    400574: pCylinder10 13
+    400576: pCylinder10 14
+    400578: pCylinder10 15
+    400580: pCylinder10 16
+    400582: pCylinder10 17
+    400584: pCylinder10 18
+    400586: pCylinder10 19
+    400588: pCylinder10 2
+    400590: pCylinder10 20
+    400592: pCylinder10 21
+    400594: pCylinder10 22
+    400596: pCylinder10 23
+    400598: pCylinder10 3
+    400600: pCylinder10 4
+    400602: pCylinder10 5
+    400604: pCylinder10 6
+    400606: pCylinder10 7
+    400608: pCylinder10 8
+    400610: pCylinder10 9
+    400612: pCylinder11
+    400614: pCylinder11 1
+    400616: pCylinder11 10
+    400618: pCylinder11 11
+    400620: pCylinder11 12
+    400622: pCylinder11 13
+    400624: pCylinder11 14
+    400626: pCylinder11 15
+    400628: pCylinder11 16
+    400630: pCylinder11 17
+    400632: pCylinder11 18
+    400634: pCylinder11 19
+    400636: pCylinder11 2
+    400638: pCylinder11 20
+    400640: pCylinder11 21
+    400642: pCylinder11 22
+    400644: pCylinder11 23
+    400646: pCylinder11 3
+    400648: pCylinder11 4
+    400650: pCylinder11 5
+    400652: pCylinder11 6
+    400654: pCylinder11 7
+    400656: pCylinder11 8
+    400658: pCylinder11 9
+    400660: pCylinder12
+    400662: pCylinder12 1
+    400664: pCylinder12 10
+    400666: pCylinder12 11
+    400668: pCylinder12 12
+    400670: pCylinder12 13
+    400672: pCylinder12 14
+    400674: pCylinder12 15
+    400676: pCylinder12 16
+    400678: pCylinder12 17
+    400680: pCylinder12 18
+    400682: pCylinder12 19
+    400684: pCylinder12 2
+    400686: pCylinder12 20
+    400688: pCylinder12 21
+    400690: pCylinder12 22
+    400692: pCylinder12 23
+    400694: pCylinder12 3
+    400696: pCylinder12 4
+    400698: pCylinder12 5
+    400700: pCylinder12 6
+    400702: pCylinder12 7
+    400704: pCylinder12 8
+    400706: pCylinder12 9
+    400708: pCylinder13
+    400710: pCylinder18
+    400712: pCylinder19
+    400714: pCylinder2
+    400716: pCylinder2 1
+    400718: pCylinder2 2
+    400720: pCylinder2 3
+    400722: pCylinder2 4
+    400724: pCylinder2 5
+    400726: pCylinder2 6
+    400728: pCylinder20
+    400730: pCylinder20 1
+    400732: pCylinder20 2
+    400734: pCylinder20 3
+    400736: pCylinder20 4
+    400738: pCylinder20 5
+    400740: pCylinder21
+    400742: pCylinder21 1
+    400744: pCylinder21 2
+    400746: pCylinder21 3
+    400748: pCylinder21 4
+    400750: pCylinder21 5
+    400752: pCylinder22
+    400754: pCylinder23
+    400756: pCylinder28
+    400758: pCylinder3
+    400760: pCylinder3 1
+    400762: pCylinder3 2
+    400764: pCylinder3 3
+    400766: pCylinder3 4
+    400768: pCylinder3 5
+    400770: pCylinder3 6
+    400772: pCylinder3 7
+    400774: pCylinder3 8
+    400776: pCylinder4
+    400778: pCylinder4 1
+    400780: pCylinder6
+    400782: pCylinder6 1
+    400784: pCylinder6 10
+    400786: pCylinder6 11
+    400788: pCylinder6 12
+    400790: pCylinder6 13
+    400792: pCylinder6 14
+    400794: pCylinder6 15
+    400796: pCylinder6 2
+    400798: pCylinder6 3
+    400800: pCylinder6 4
+    400802: pCylinder6 5
+    400804: pCylinder6 6
+    400806: pCylinder6 7
+    400808: pCylinder6 8
+    400810: pCylinder6 9
+    400812: pCylinder7
+    400814: pCylinder7 1
+    400816: pCylinder7 10
+    400818: pCylinder7 11
+    400820: pCylinder7 12
+    400822: pCylinder7 13
+    400824: pCylinder7 14
+    400826: pCylinder7 15
+    400828: pCylinder7 2
+    400830: pCylinder7 3
+    400832: pCylinder7 4
+    400834: pCylinder7 5
+    400836: pCylinder7 6
+    400838: pCylinder7 7
+    400840: pCylinder7 8
+    400842: pCylinder7 9
+    400844: Pedastal
+    400846: Pedastal 1
+    400848: Pedastal 2
+    400850: Pillars_lf
+    400852: Pillars_rt
+    400854: Pipe_Release:pCylinder28
+    400856: PipeArch_1
+    400858: PipeArch_2
+    400860: pointLight1
+    400862: pointLight2
+    400864: pointLight3
+    400866: pointLight4
+    400868: pointLight5
+    400870: pointLight6
+    400872: polySurface1
+    400874: polySurface10
+    400876: polySurface11
+    400878: polySurface13
+    400880: polySurface13 1
+    400882: polySurface13 10
+    400884: polySurface13 11
+    400886: polySurface13 12
+    400888: polySurface13 13
+    400890: polySurface13 14
+    400892: polySurface13 2
+    400894: polySurface13 3
+    400896: polySurface13 4
+    400898: polySurface13 5
+    400900: polySurface13 6
+    400902: polySurface13 7
+    400904: polySurface13 8
+    400906: polySurface13 9
+    400908: polySurface14
+    400910: polySurface15
+    400912: polySurface2
+    400914: polySurface3
+    400916: polySurface4
+    400918: polySurface9
+    400920: PowerCables_1
+    400922: PowerCables_2
+    400924: PowerCables_3
+    400926: PowerCell_1
+    400928: PowerCell_1 1
+    400930: PowerCell_1 2
+    400932: PowerCell_2
+    400934: PowerCell_2 1
+    400936: PowerCell_2 2
+    400938: PowerCell_3
+    400940: PowerCell_3 1
+    400942: PowerCell_3 2
+    400944: PowerCell_4
+    400946: PowerCell_4 1
+    400948: PowerCell_4 2
+    400950: PowerCell_5
+    400952: PowerCell_5 1
+    400954: PowerCell_5 2
+    400956: PowerCell_6
+    400958: PowerCell_6 1
+    400960: PowerCell_6 2
+    400962: PowerCell_7
+    400964: PowerCell_7 1
+    400966: PowerCell_7 2
+    400968: PowerCell_8
+    400970: PowerCell_8 1
+    400972: PowerCell_8 2
+    400974: PowerStatue_1
+    400976: PowerStatue_2
+    400978: PowerStatue_3
+    400980: pPlane1
+    400982: pSphere1
+    400984: pSphere1 1
+    400986: pSphere1 2
+    400988: pSphere1 3
+    400990: pSphere10
+    400992: pSphere11
+    400994: pSphere12
+    400996: pSphere14
+    400998: pSphere15
+    401000: pSphere16
+    401002: pSphere17
+    401004: pSphere18
+    401006: pSphere19
+    401008: pSphere2
+    401010: pSphere3
+    401012: pSphere4
+    401014: pSphere5
+    401016: pSphere6
+    401018: pSphere7
+    401020: pSphere8
+    401022: pSphere9
+    401024: pTorus1
+    401026: pTorus1 1
+    401028: pTorus1 2
+    401030: pTorus2
+    401032: pTorus3
+    401034: pTorus4
+    401036: pTorus5
+    401038: pTorus6
+    401040: pTorus7
+    401042: pTorus8
+    401044: R_Arm
+    401046: R_Arm 1
+    401048: RailSupports
+    401050: RailSupports 1
+    401052: Ramp_lf
+    401054: Ramp_rt
+    401056: RampBase1
+    401058: RampBase3
+    401060: RampBody
+    401062: RampBody 1
+    401064: RampRail
+    401066: RampRail 1
+    401068: RampRail 2
+    401070: RampRail 3
+    401072: Ramps
+    401074: Ramps 1
+    401076: Ramps1
+    401078: Ramps2
+    401080: Ramps3
+    401082: RB_Props:bottom
+    401084: RB_Props:pCube27
+    401086: RB_Props:pCube28
+    401088: RB_Props:pCube29
+    401090: RB_Props:pCube30
+    401092: RB_Props:pCube31
+    401094: RB_Props:pCube32
+    401096: RB_Props:pCube33
+    401098: RB_Props:pCube34
+    401100: RB_Props:pCube35
+    401102: RB_Props:pCube37
+    401104: RB_Props:pCube7
+    401106: RB_Props:pCylinder6
+    401108: RB_Props:pCylinder7
+    401110: RearCavern
+    401112: RearCrestFloor
+    401114: RearCrestFloor2
+    401116: ReclicSpires
+    401118: Relic
+    401120: relic:pSphere1
+    401122: RelicPowerConduits
+    401124: RelicRings
+    401126: Rocks_JA:DinoCam
+    401128: Rocks_JA:OuterFloorBody1
+    401130: Rocks_JA:rock1
+    401132: Rocks_JA:rock1 1
+    401134: Rocks_JA:rock1 2
+    401136: Rocks_JA:rock10
+    401138: Rocks_JA:rock10 1
+    401140: Rocks_JA:rock10 2
+    401142: Rocks_JA:rock11
+    401144: Rocks_JA:rock12
+    401146: Rocks_JA:rock12 1
+    401148: Rocks_JA:rock12 2
+    401150: Rocks_JA:rock13
+    401152: Rocks_JA:rock13 1
+    401154: Rocks_JA:rock13 2
+    401156: Rocks_JA:rock14
+    401158: Rocks_JA:rock14 1
+    401160: Rocks_JA:rock14 2
+    401162: Rocks_JA:rock15
+    401164: Rocks_JA:rock16
+    401166: Rocks_JA:rock16 1
+    401168: Rocks_JA:rock16 2
+    401170: Rocks_JA:rock17
+    401172: Rocks_JA:rock17 1
+    401174: Rocks_JA:rock17 2
+    401176: Rocks_JA:rock18
+    401178: Rocks_JA:rock18 1
+    401180: Rocks_JA:rock19
+    401182: Rocks_JA:rock2
+    401184: Rocks_JA:rock2 1
+    401186: Rocks_JA:rock2 2
+    401188: Rocks_JA:rock20
+    401190: Rocks_JA:rock3
+    401192: Rocks_JA:rock3 1
+    401194: Rocks_JA:rock3 2
+    401196: Rocks_JA:rock4
+    401198: Rocks_JA:rock4 1
+    401200: Rocks_JA:rock4 2
+    401202: Rocks_JA:rock5
+    401204: Rocks_JA:rock5 1
+    401206: Rocks_JA:rock5 2
+    401208: Rocks_JA:rock6
+    401210: Rocks_JA:rock6 1
+    401212: Rocks_JA:rock6 2
+    401214: Rocks_JA:rock7
+    401216: Rocks_JA:rock7 1
+    401218: Rocks_JA:rock7 2
+    401220: Rocks_JA:rock8
+    401222: Rocks_JA:rock8 1
+    401224: Rocks_JA:rock8 2
+    401226: Rocks_JA:rock9
+    401228: Rocks_JA:rock9 1
+    401230: Rocks_JA:rock9 2
+    401232: Rocks_JA:Rocks
+    401234: Rocks_JA:Rocks1
+    401236: Rocks_JA:Rocks2
+    401238: RoughDraft
+    401240: SidePipes
+    401242: SidePipes 1
+    401244: Skull
+    401246: Skull 1
+    401248: Spire
+    401250: Spire 1
+    401252: Spire 10
+    401254: Spire 11
+    401256: Spire 2
+    401258: Spire 3
+    401260: Spire 4
+    401262: Spire 5
+    401264: Spire 6
+    401266: Spire 7
+    401268: Spire 8
+    401270: Spire 9
+    401272: Statue
+    401274: Statue1_TT:Belt
+    401276: Statue1_TT:Chest
+    401278: Statue1_TT:Chest 1
+    401280: Statue1_TT:ChestArmor
+    401282: Statue1_TT:CrystalGroup1
+    401284: Statue1_TT:CrystalGroup2
+    401286: Statue1_TT:Head
+    401288: Statue1_TT:L_Arm
+    401290: Statue1_TT:pCube10
+    401292: Statue1_TT:pCube10 1
+    401294: Statue1_TT:pCube13
+    401296: Statue1_TT:pCube14
+    401298: Statue1_TT:pCube15
+    401300: Statue1_TT:pCube16
+    401302: Statue1_TT:pCube17
+    401304: Statue1_TT:pCube18
+    401306: Statue1_TT:pCube20
+    401308: Statue1_TT:pCube20 1
+    401310: Statue1_TT:pCube21
+    401312: Statue1_TT:pCube21 1
+    401314: Statue1_TT:pCube22
+    401316: Statue1_TT:pCube23
+    401318: Statue1_TT:pCube24
+    401320: Statue1_TT:pCube25
+    401322: Statue1_TT:pCube26
+    401324: Statue1_TT:pCube27
+    401326: Statue1_TT:pCube28
+    401328: Statue1_TT:pCube29
+    401330: Statue1_TT:pCube5
+    401332: Statue1_TT:pCube5 1
+    401334: Statue1_TT:pCube6
+    401336: Statue1_TT:pCube6 1
+    401338: Statue1_TT:pCube7
+    401340: Statue1_TT:pCube7 1
+    401342: Statue1_TT:pCube8
+    401344: Statue1_TT:pCube8 1
+    401346: Statue1_TT:pCube9
+    401348: Statue1_TT:pCube9 1
+    401350: Statue1_TT:pCylinder1
+    401352: Statue1_TT:pCylinder2
+    401354: Statue1_TT:pCylinder3
+    401356: Statue1_TT:pCylinder3 1
+    401358: Statue1_TT:pCylinder4
+    401360: Statue1_TT:pSphere1
+    401362: Statue1_TT:pTorus1
+    401364: Statue1_TT:R_Arm
+    401366: Statue1_TT:Skull
+    401368: Statue1_TT:Statue
+    401370: Statue2
+    401372: Statue_Chest_Belt_pCube17
+    401374: Statue_Chest_Belt_pCube17_MeshPart0
+    401376: Statue_Chest_Belt_pCube17_MeshPart1
+    401378: Statue_Chest_Belt_pCube17_MeshPart2
+    401380: Statue_Chest_Belt_pCube17_MeshPart3
+    401382: StatueBase
+    401384: StatueBase 1
+    401386: StatueBase 2
+    401388: Statues
+    401390: TopArches
+    401392: TopFloor
+    401394: TopPipe
+    401396: TopPipe 1
+    401398: TopSegment_1
+    401400: TopSegment_2
+    401402: TopSegment_3
+    401404: TopSegment_4
+    401406: transform1
+    401408: transform10
+    401410: transform100
+    401412: transform101
+    401414: transform102
+    401416: transform103
+    401418: transform104
+    401420: transform105
+    401422: transform106
+    401424: transform107
+    401426: transform108
+    401428: transform109
+    401430: transform11
+    401432: transform110
+    401434: transform111
+    401436: transform112
+    401438: transform113
+    401440: transform114
+    401442: transform115
+    401444: transform116
+    401446: transform117
+    401448: transform118
+    401450: transform119
+    401452: transform12
+    401454: transform120
+    401456: transform121
+    401458: transform122
+    401460: transform123
+    401462: transform124
+    401464: transform125
+    401466: transform126
+    401468: transform127
+    401470: transform128
+    401472: transform129
+    401474: transform13
+    401476: transform130
+    401478: transform131
+    401480: transform132
+    401482: transform133
+    401484: transform134
+    401486: transform135
+    401488: transform136
+    401490: transform137
+    401492: transform138
+    401494: transform139
+    401496: transform14
+    401498: transform140
+    401500: transform141
+    401502: transform142
+    401504: transform143
+    401506: transform144
+    401508: transform145
+    401510: transform146
+    401512: transform147
+    401514: transform148
+    401516: transform149
+    401518: transform15
+    401520: transform150
+    401522: transform151
+    401524: transform152
+    401526: transform153
+    401528: transform154
+    401530: transform155
+    401532: transform156
+    401534: transform157
+    401536: transform158
+    401538: transform159
+    401540: transform16
+    401542: transform160
+    401544: transform161
+    401546: transform162
+    401548: transform163
+    401550: transform164
+    401552: transform165
+    401554: transform166
+    401556: transform167
+    401558: transform168
+    401560: transform169
+    401562: transform17
+    401564: transform170
+    401566: transform171
+    401568: transform172
+    401570: transform173
+    401572: transform174
+    401574: transform175
+    401576: transform176
+    401578: transform177
+    401580: transform178
+    401582: transform179
+    401584: transform18
+    401586: transform180
+    401588: transform181
+    401590: transform182
+    401592: transform183
+    401594: transform184
+    401596: transform185
+    401598: transform186
+    401600: transform187
+    401602: transform188
+    401604: transform189
+    401606: transform19
+    401608: transform190
+    401610: transform191
+    401612: transform192
+    401614: transform193
+    401616: transform194
+    401618: transform195
+    401620: transform196
+    401622: transform197
+    401624: transform198
+    401626: transform199
+    401628: transform2
+    401630: transform20
+    401632: transform200
+    401634: transform201
+    401636: transform202
+    401638: transform203
+    401640: transform204
+    401642: transform205
+    401644: transform206
+    401646: transform207
+    401648: transform208
+    401650: transform209
+    401652: transform21
+    401654: transform210
+    401656: transform211
+    401658: transform212
+    401660: transform213
+    401662: transform214
+    401664: transform215
+    401666: transform216
+    401668: transform217
+    401670: transform218
+    401672: transform219
+    401674: transform22
+    401676: transform220
+    401678: transform221
+    401680: transform222
+    401682: transform223
+    401684: transform224
+    401686: transform225
+    401688: transform226
+    401690: transform227
+    401692: transform228
+    401694: transform229
+    401696: transform23
+    401698: transform230
+    401700: transform231
+    401702: transform232
+    401704: transform233
+    401706: transform234
+    401708: transform235
+    401710: transform236
+    401712: transform237
+    401714: transform238
+    401716: transform239
+    401718: transform24
+    401720: transform240
+    401722: transform241
+    401724: transform242
+    401726: transform243
+    401728: transform244
+    401730: transform245
+    401732: transform246
+    401734: transform247
+    401736: transform248
+    401738: transform249
+    401740: transform25
+    401742: transform250
+    401744: transform251
+    401746: transform252
+    401748: transform253
+    401750: transform254
+    401752: transform255
+    401754: transform256
+    401756: transform257
+    401758: transform258
+    401760: transform259
+    401762: transform26
+    401764: transform260
+    401766: transform261
+    401768: transform262
+    401770: transform263
+    401772: transform264
+    401774: transform265
+    401776: transform266
+    401778: transform267
+    401780: transform268
+    401782: transform269
+    401784: transform27
+    401786: transform270
+    401788: transform271
+    401790: transform272
+    401792: transform273
+    401794: transform274
+    401796: transform275
+    401798: transform276
+    401800: transform277
+    401802: transform278
+    401804: transform279
+    401806: transform28
+    401808: transform280
+    401810: transform281
+    401812: transform282
+    401814: transform283
+    401816: transform284
+    401818: transform285
+    401820: transform286
+    401822: transform287
+    401824: transform288
+    401826: transform289
+    401828: transform29
+    401830: transform290
+    401832: transform291
+    401834: transform292
+    401836: transform293
+    401838: transform294
+    401840: transform295
+    401842: transform296
+    401844: transform297
+    401846: transform298
+    401848: transform299
+    401850: transform3
+    401852: transform30
+    401854: transform300
+    401856: transform301
+    401858: transform302
+    401860: transform303
+    401862: transform304
+    401864: transform305
+    401866: transform306
+    401868: transform307
+    401870: transform308
+    401872: transform309
+    401874: transform31
+    401876: transform310
+    401878: transform311
+    401880: transform312
+    401882: transform313
+    401884: transform314
+    401886: transform315
+    401888: transform316
+    401890: transform317
+    401892: transform318
+    401894: transform319
+    401896: transform32
+    401898: transform320
+    401900: transform321
+    401902: transform322
+    401904: transform323
+    401906: transform324
+    401908: transform325
+    401910: transform326
+    401912: transform327
+    401914: transform328
+    401916: transform329
+    401918: transform33
+    401920: transform330
+    401922: transform331
+    401924: transform332
+    401926: transform333
+    401928: transform334
+    401930: transform335
+    401932: transform336
+    401934: transform337
+    401936: transform338
+    401938: transform339
+    401940: transform34
+    401942: transform340
+    401944: transform341
+    401946: transform342
+    401948: transform343
+    401950: transform344
+    401952: transform345
+    401954: transform346
+    401956: transform347
+    401958: transform348
+    401960: transform349
+    401962: transform35
+    401964: transform350
+    401966: transform351
+    401968: transform352
+    401970: transform353
+    401972: transform354
+    401974: transform355
+    401976: transform356
+    401978: transform357
+    401980: transform358
+    401982: transform359
+    401984: transform36
+    401986: transform360
+    401988: transform361
+    401990: transform362
+    401992: transform363
+    401994: transform364
+    401996: transform365
+    401998: transform366
+    402000: transform367
+    402002: transform368
+    402004: transform369
+    402006: transform37
+    402008: transform370
+    402010: transform371
+    402012: transform372
+    402014: transform373
+    402016: transform374
+    402018: transform375
+    402020: transform376
+    402022: transform377
+    402024: transform378
+    402026: transform379
+    402028: transform38
+    402030: transform380
+    402032: transform381
+    402034: transform382
+    402036: transform383
+    402038: transform384
+    402040: transform385
+    402042: transform386
+    402044: transform387
+    402046: transform388
+    402048: transform389
+    402050: transform39
+    402052: transform390
+    402054: transform391
+    402056: transform392
+    402058: transform393
+    402060: transform394
+    402062: transform395
+    402064: transform396
+    402066: transform397
+    402068: transform398
+    402070: transform399
+    402072: transform4
+    402074: transform40
+    402076: transform400
+    402078: transform401
+    402080: transform402
+    402082: transform403
+    402084: transform404
+    402086: transform405
+    402088: transform406
+    402090: transform407
+    402092: transform408
+    402094: transform409
+    402096: transform41
+    402098: transform410
+    402100: transform411
+    402102: transform412
+    402104: transform413
+    402106: transform414
+    402108: transform415
+    402110: transform416
+    402112: transform417
+    402114: transform418
+    402116: transform419
+    402118: transform42
+    402120: transform420
+    402122: transform421
+    402124: transform422
+    402126: transform423
+    402128: transform424
+    402130: transform425
+    402132: transform426
+    402134: transform427
+    402136: transform428
+    402138: transform429
+    402140: transform43
+    402142: transform430
+    402144: transform431
+    402146: transform432
+    402148: transform433
+    402150: transform434
+    402152: transform435
+    402154: transform436
+    402156: transform437
+    402158: transform438
+    402160: transform439
+    402162: transform44
+    402164: transform440
+    402166: transform441
+    402168: transform442
+    402170: transform45
+    402172: transform46
+    402174: transform47
+    402176: transform48
+    402178: transform49
+    402180: transform5
+    402182: transform50
+    402184: transform51
+    402186: transform52
+    402188: transform53
+    402190: transform54
+    402192: transform55
+    402194: transform56
+    402196: transform57
+    402198: transform58
+    402200: transform59
+    402202: transform6
+    402204: transform60
+    402206: transform61
+    402208: transform62
+    402210: transform63
+    402212: transform64
+    402214: transform65
+    402216: transform66
+    402218: transform67
+    402220: transform68
+    402222: transform69
+    402224: transform7
+    402226: transform70
+    402228: transform71
+    402230: transform72
+    402232: transform73
+    402234: transform74
+    402236: transform75
+    402238: transform76
+    402240: transform77
+    402242: transform78
+    402244: transform79
+    402246: transform8
+    402248: transform80
+    402250: transform81
+    402252: transform82
+    402254: transform83
+    402256: transform84
+    402258: transform85
+    402260: transform86
+    402262: transform87
+    402264: transform88
+    402266: transform89
+    402268: transform9
+    402270: transform90
+    402272: transform91
+    402274: transform92
+    402276: transform93
+    402278: transform94
+    402280: transform95
+    402282: transform96
+    402284: transform97
+    402286: transform98
+    402288: transform99
+    402290: tree_plant:group1
+    402292: tree_plant:imagePlane1
+    402294: tree_plant:pCube1
+    402296: tree_plant:pCube2
+    402298: tree_plant:pCylinder1
+    402300: tree_plant:pCylinder2
+    402302: tree_plant:pCylinder3
+    402304: tree_plant:pSphere1
+    402306: tree_plant:pSphere2
+    402308: tree_plant:pSphere3
+    402310: tree_plant:pSphere4
+    402312: tree_plant:pSphere5
+    402314: tree_plant:pSphere6
+    402316: TunnelPipe
+    402318: TunnelPipe 1
+    402320: TunnelPipe1
+    402322: TunnelPipe1 1
+    402324: TunnelPipeBody
+    402326: TunnelPipeBody 1
+    402328: TunnelPipeBody 2
+    402330: TunnelPipeBody 3
+    402332: TunnelPipeTrim
+    402334: TunnelPipeTrim 1
+    402336: TunnelPipeTrim 2
+    402338: TunnelPipeTrim 3
+    402340: UpperWallStruts
+    402342: UpperWallStruts 1
+    402344: UpperWallStruts 2
+    402346: UpperWallStruts 3
+    402348: vent_cylinder:pCube23
+    402350: WallComponents
+    402352: WallGrate
+    402354: WallGrate 1
+    402356: WallGrate 2
+    402358: WallGrate 3
+    402360: WallGrate 4
+    402362: WallGrate 5
+    402364: Wallgrate_1
+    402366: Wallgrate_1 1
+    402368: Wallgrate_1 2
+    402370: Wallgrate_1 3
+    402372: Wallgrate_2
+    402374: Wallgrate_2 1
+    402376: Wallgrate_2 2
+    402378: Wallgrate_2 3
+    402380: WallGrates
+    402382: WallGrates 1
+    402384: WallGrates 2
+    402386: WallGrates 3
+    402388: WallGrateTrim
+    402390: WallGrateTrim 1
+    402392: WallGrateTrim 2
+    402394: WallGrateTrim 3
+    402396: WallGrateTrim 4
+    402398: WallGrateTrim 5
+    402400: WallPipe
+    402402: WallPipe 1
+    402404: WallPipe 2
+    402406: WallPipe 3
+    402408: WallPipe 4
+    402410: WallPipe 5
+    402412: wallStrut_1
+    402414: wallStrut_1 1
+    402416: wallStrut_1 2
+    402418: wallStrut_1 3
+    402420: wallStrut_2
+    402422: wallStrut_2 1
+    402424: wallStrut_2 2
+    402426: wallStrut_2 3
+    402428: wallStrut_3
+    402430: wallStrut_3 1
+    402432: wallStrut_3 2
+    402434: wallStrut_4
+    402436: wallStrut_4 1
+    402438: wallStrut_4 2
+    402440: wallStrut_4 3
+    402442: wallStrut_5
+    402444: wallStrut_5 1
+    402446: wallStrut_5 2
+    2300000: Base
+    2300002: Base 1
+    2300004: Base 10
+    2300006: Base 11
+    2300008: Base 2
+    2300010: Base 3
+    2300012: Base 4
+    2300014: Base 5
+    2300016: Base 6
+    2300018: Base 7
+    2300020: Base 8
+    2300022: Base 9
+    2300024: BottomLevel
+    2300026: CityScapeProtoType:CitySpin_1
+    2300028: MidLevel
+    2300030: New_QP_PolyPipe_1
+    2300032: New_QP_PolyPipe_2
+    2300034: New_QP_PolyPipe_3
+    2300036: New_QP_PolyPipe_4
+    2300038: polySurface1
+    2300040: polySurface2
+    2300042: polySurface3
+    2300044: pPlane1
+    2300046: pSphere1
+    2300048: pSphere10
+    2300050: pSphere11
+    2300052: pSphere12
+    2300054: pSphere14
+    2300056: pSphere15
+    2300058: pSphere16
+    2300060: pSphere17
+    2300062: pSphere18
+    2300064: pSphere19
+    2300066: pSphere2
+    2300068: pSphere3
+    2300070: pSphere4
+    2300072: pSphere5
+    2300074: pSphere6
+    2300076: pSphere7
+    2300078: pSphere8
+    2300080: pSphere9
+    2300082: Spire
+    2300084: Spire 1
+    2300086: Spire 10
+    2300088: Spire 11
+    2300090: Spire 2
+    2300092: Spire 3
+    2300094: Spire 4
+    2300096: Spire 5
+    2300098: Spire 6
+    2300100: Spire 7
+    2300102: Spire 8
+    2300104: Spire 9
+    2300106: Statue_Chest_Belt_pCube17_MeshPart0
+    2300108: Statue_Chest_Belt_pCube17_MeshPart1
+    2300110: Statue_Chest_Belt_pCube17_MeshPart2
+    2300112: Statue_Chest_Belt_pCube17_MeshPart3
+    2300114: tree_plant:pCube1
+    2300116: WallGrate
+    2300118: WallGrate 1
+    2300120: WallGrate 2
+    2300122: WallGrate 3
+    2300124: WallGrate 4
+    2300126: WallGrate 5
+    2300128: WallGrateTrim
+    2300130: WallGrateTrim 1
+    2300132: WallGrateTrim 2
+    2300134: WallGrateTrim 3
+    2300136: WallGrateTrim 4
+    2300138: WallGrateTrim 5
+    2300140: WallPipe 2
+    2300142: WallPipe 3
+    2300144: WallPipe 4
+    2300146: WallPipe 5
+    3300000: Base
+    3300002: Base 1
+    3300004: Base 10
+    3300006: Base 11
+    3300008: Base 2
+    3300010: Base 3
+    3300012: Base 4
+    3300014: Base 5
+    3300016: Base 6
+    3300018: Base 7
+    3300020: Base 8
+    3300022: Base 9
+    3300024: BottomLevel
+    3300026: CityScapeProtoType:CitySpin_1
+    3300028: MidLevel
+    3300030: New_QP_PolyPipe_1
+    3300032: New_QP_PolyPipe_2
+    3300034: New_QP_PolyPipe_3
+    3300036: New_QP_PolyPipe_4
+    3300038: polySurface1
+    3300040: polySurface2
+    3300042: polySurface3
+    3300044: pPlane1
+    3300046: pSphere1
+    3300048: pSphere10
+    3300050: pSphere11
+    3300052: pSphere12
+    3300054: pSphere14
+    3300056: pSphere15
+    3300058: pSphere16
+    3300060: pSphere17
+    3300062: pSphere18
+    3300064: pSphere19
+    3300066: pSphere2
+    3300068: pSphere3
+    3300070: pSphere4
+    3300072: pSphere5
+    3300074: pSphere6
+    3300076: pSphere7
+    3300078: pSphere8
+    3300080: pSphere9
+    3300082: Spire
+    3300084: Spire 1
+    3300086: Spire 10
+    3300088: Spire 11
+    3300090: Spire 2
+    3300092: Spire 3
+    3300094: Spire 4
+    3300096: Spire 5
+    3300098: Spire 6
+    3300100: Spire 7
+    3300102: Spire 8
+    3300104: Spire 9
+    3300106: Statue_Chest_Belt_pCube17_MeshPart0
+    3300108: Statue_Chest_Belt_pCube17_MeshPart1
+    3300110: Statue_Chest_Belt_pCube17_MeshPart2
+    3300112: Statue_Chest_Belt_pCube17_MeshPart3
+    3300114: tree_plant:pCube1
+    3300116: WallGrate
+    3300118: WallGrate 1
+    3300120: WallGrate 2
+    3300122: WallGrate 3
+    3300124: WallGrate 4
+    3300126: WallGrate 5
+    3300128: WallGrateTrim
+    3300130: WallGrateTrim 1
+    3300132: WallGrateTrim 2
+    3300134: WallGrateTrim 3
+    3300136: WallGrateTrim 4
+    3300138: WallGrateTrim 5
+    3300140: WallPipe 2
+    3300142: WallPipe 3
+    3300144: WallPipe 4
+    3300146: WallPipe 5
+    4300000: New_QP_PolyPipe_4
+    4300002: New_QP_PolyPipe_3
+    4300004: New_QP_PolyPipe_2
+    4300006: New_QP_PolyPipe_1
+    4300008: pSphere19
+    4300010: pSphere18
+    4300012: pSphere17
+    4300014: pSphere16
+    4300016: pSphere15
+    4300018: pSphere14
+    4300020: pSphere12
+    4300022: pSphere11
+    4300024: pSphere10
+    4300026: pSphere9
+    4300028: pSphere8
+    4300030: pSphere7
+    4300032: pSphere6
+    4300034: pSphere5
+    4300036: pSphere4
+    4300038: pSphere3
+    4300040: polySurface1
+    4300042: polySurface2
+    4300044: polySurface3
+    4300046: CityScapeProtoType:CitySpin_1
+    4300048: pSphere2
+    4300050: pSphere1
+    4300052: pPlane1
+    4300054: WallPipe
+    4300056: Spire
+    4300058: Base
+    4300060: WallGrate
+    4300062: WallGrateTrim
+    4300064: WallPipe
+    4300066: Spire
+    4300068: Base
+    4300070: WallGrate
+    4300072: WallGrateTrim
+    4300074: WallPipe
+    4300076: Spire
+    4300078: Base
+    4300080: Spire
+    4300082: Base
+    4300084: Spire
+    4300086: Base
+    4300088: Spire
+    4300090: Base
+    4300092: Spire
+    4300094: Base
+    4300096: WallGrate
+    4300098: WallGrateTrim
+    4300100: WallGrate
+    4300102: WallGrateTrim
+    4300104: WallPipe
+    4300106: Spire
+    4300108: Base
+    4300110: Spire
+    4300112: Base
+    4300114: Spire
+    4300116: Base
+    4300118: Spire
+    4300120: Base
+    4300122: Spire
+    4300124: Base
+    4300126: WallGrate
+    4300128: WallGrateTrim
+    4300130: WallGrate
+    4300132: WallGrateTrim
+    4300134: MidLevel
+    4300136: BottomLevel
+    4300138: tree_plant:pCube1
+    4300140: Statue_Chest_Belt_pCube17_MeshPart0
+    4300142: Statue_Chest_Belt_pCube17_MeshPart1
+    4300144: Statue_Chest_Belt_pCube17_MeshPart2
+    4300146: Statue_Chest_Belt_pCube17_MeshPart3
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

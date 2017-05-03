@@ -1,0 +1,1720 @@
+fileFormatVersion: 2
+guid: 0affdae927f6e08498af01a0aadd3468
+timeCreated: 1491071131
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bottom
+    100002: COG_FK_Ctrl
+    100004: COG_FK_Grp
+    100006: Dino_Mesh
+    100008: FK_COG
+    100010: FK_Hip
+    100012: FK_L_Ankle
+    100014: FK_L_Elbow
+    100016: FK_L_Hip
+    100018: FK_L_Knee_1
+    100020: FK_L_Knee_2
+    100022: FK_L_Shoulder
+    100024: FK_L_Wrist
+    100026: FK_Neck_Base
+    100028: FK_Neck_Jnt_1
+    100030: FK_Neck_Jnt_2
+    100032: FK_R_Ankle
+    100034: FK_R_Elbow
+    100036: FK_R_HIp
+    100038: FK_R_Knee_1
+    100040: FK_R_Knee_2
+    100042: FK_R_Shoulder
+    100044: FK_R_Wrist
+    100046: FK_Skull
+    100048: FK_Spine
+    100050: FK_System
+    100052: FK_Tail_Base
+    100054: FK_Tail_jnt_1
+    100056: FK_Tail_jnt_2
+    100058: FK_Tail_jnt_3
+    100060: FK_Tail_jnt_4
+    100062: FK_Tail_jnt_5
+    100064: FK_Tail_jnt_6
+    100066: FK_Tail_jnt_7
+    100068: FK_Tail_jnt_8
+    100070: FK_Tail_Tip
+    100072: Hip_FK_Ctrl
+    100074: Hip_FK_Grp
+    100076: //RootNode
+    100078: IK_COG
+    100080: IK_Hip
+    100082: IK_L_Ankle
+    100084: IK_L_Elbow
+    100086: IK_L_Hip
+    100088: IK_L_Knee_1
+    100090: IK_L_Knee_2
+    100092: IK_L_Shoulder
+    100094: IK_L_Wrist
+    100096: IK_Neck_Base
+    100098: IK_Neck_Jnt_1
+    100100: IK_Neck_Jnt_2
+    100102: IK_R_Ankle
+    100104: IK_R_Elbow
+    100106: IK_R_Hip
+    100108: IK_R_Knee_1
+    100110: IK_R_Knee_2
+    100112: IK_R_Shoulder
+    100114: IK_R_Wrist
+    100116: IK_Skull
+    100118: IK_Spine
+    100120: IK_System
+    100122: IK_Tail_Base
+    100124: IK_Tail_Jnt_1
+    100126: IK_Tail_Jnt_2
+    100128: IK_Tail_Jnt_3
+    100130: IK_Tail_Jnt_4
+    100132: IK_Tail_Jnt_5
+    100134: IK_Tail_Jnt_6
+    100136: IK_Tail_Jnt_7
+    100138: IK_Tail_Jnt_8
+    100140: IK_Tail_Tip
+    100142: ikHandle1
+    100144: ikHandle2
+    100146: ikHandle3
+    100148: ikHandle4
+    100150: ikHandle5
+    100152: ikHandle6
+    100154: imagePlane3
+    100156: L_Ankle_FK_Ctrl
+    100158: L_Ankle_FK_Grp
+    100160: L_Ankle_IK_Ctrl
+    100162: L_Ankle_IK_Grp
+    100164: L_Arm_Pole_Vector_IK_Ctrl
+    100166: L_Arm_Pole_Vector_IK_Grp
+    100168: L_Elbow_FK_Ctrl
+    100170: L_Elbow_FK_Grp
+    100172: L_Hip_FK_Ctrl
+    100174: L_Hip_FK_Grp
+    100176: L_Hip_IK_Ctrl
+    100178: L_Hip_IK_Grp
+    100180: L_Knee_1_FK_Ctrl
+    100182: L_Knee_1_FK_Grp
+    100184: L_Knee_2_FK_Ctrl
+    100186: L_Knee_2_FK_Grp
+    100188: L_Shoulder_FK_Ctrl
+    100190: L_Shoulder_FK_Grp
+    100192: L_Shoulder_IK_Ctrl
+    100194: L_Shoulder_IK_Grp
+    100196: L_Wrist_FK_Ctrl
+    100198: L_Wrist_FK_Grp
+    100200: L_Wrist_IK_Ctrl
+    100202: L_Wrist_IK_Grp
+    100204: left
+    100206: Neck_Base_FK_Ctrl
+    100208: Neck_Base_FK_Grp
+    100210: Neck_IK_Ctrl
+    100212: Neck_IK_Grp
+    100214: Neck_Jnt_1_FK_Ctrl
+    100216: Neck_Jnt_1_FK_Grp
+    100218: Neck_Jnt_2_FK_Ctrl
+    100220: Neck_Jnt_2_FK_Grp
+    100222: Neck_Pole_Vector_IK_Ctrl
+    100224: Neck_Pole_Vector_IK_Grp
+    100226: pCone10
+    100228: pCone11
+    100230: pCone12
+    100232: pCylinder18
+    100234: pCylinder20
+    100236: pCylinder5
+    100238: polySurface100
+    100240: polySurface102
+    100242: polySurface104
+    100244: polySurface106
+    100246: polySurface108
+    100248: polySurface110
+    100250: polySurface112
+    100252: polySurface117
+    100254: polySurface118
+    100256: polySurface118 1
+    100258: polySurface119
+    100260: polySurface120
+    100262: polySurface21
+    100264: polySurface23
+    100266: polySurface24
+    100268: polySurface26
+    100270: polySurface33
+    100272: polySurface35
+    100274: polySurface37
+    100276: polySurface42
+    100278: polySurface44
+    100280: polySurface54
+    100282: polySurface54_polySurface56_polySurface64_polySurface66
+    100284: polySurface65
+    100286: polySurface71
+    100288: polySurface73
+    100290: polySurface75
+    100292: polySurface85
+    100294: polySurface98
+    100296: pPipe1
+    100298: pPipe2
+    100300: pPipe3
+    100302: pPipe4
+    100304: pSphere14
+    100306: pSphere31
+    100308: R_Ankle_FK_Ctrl
+    100310: R_Ankle_FK_Grp
+    100312: R_Ankle_IK_Ctrl
+    100314: R_Ankle_IK_Grp
+    100316: R_Arm_Pole_Vector_IK_Ctrl
+    100318: R_Arm_Pole_Vector_IK_Grp
+    100320: R_Elbow_FK_Ctrl
+    100322: R_Elbow_FK_Grp
+    100324: R_Hip_FK_Ctrl
+    100326: R_Hip_FK_Grp
+    100328: R_Hip_IK_Ctrl
+    100330: R_Hip_IK_Grp
+    100332: R_Knee_1_FK_Ctrl
+    100334: R_Knee_1_FK_Grp
+    100336: R_Knee_2_FK_Ctrl
+    100338: R_Knee_2_FK_Grp
+    100340: R_Shoulder_FK_Ctrl
+    100342: R_Shoulder_FK_Grp
+    100344: R_Shoulder_IK_Ctrl
+    100346: R_Shoulder_IK_Grp
+    100348: R_Wrist_FK_Ctrl
+    100350: R_Wrist_FK_Grp
+    100352: R_Wrist_IK_Ctrl
+    100354: R_Wrist_IK_Grp
+    100356: RK_COG
+    100358: RK_Hip
+    100360: RK_L_Ankle
+    100362: RK_L_Elbow
+    100364: RK_L_Hip
+    100366: RK_L_Knee_Jnt_1
+    100368: RK_L_Knee_Jnt_2
+    100370: RK_L_Shoulder
+    100372: RK_L_Wrist
+    100374: RK_Neck_Base
+    100376: RK_Neck_Jnt_1
+    100378: RK_Neck_Jnt_2
+    100380: RK_R_Ankle
+    100382: RK_R_Elbow
+    100384: RK_R_Hip
+    100386: RK_R_Knee_1
+    100388: RK_R_Knee_2
+    100390: RK_R_Shoulder
+    100392: RK_R_Wrist
+    100394: Rk_Skull
+    100396: RK_Spine
+    100398: RK_Tail_Base
+    100400: RK_Tail_Jnt_1
+    100402: RK_Tail_Jnt_2
+    100404: RK_Tail_Jnt_3
+    100406: RK_Tail_Jnt_4
+    100408: RK_Tail_Jnt_5
+    100410: RK_Tail_Jnt_6
+    100412: RK_Tail_Jnt_7
+    100414: RK_Tail_Jnt_8
+    100416: RK_Tail_Tip
+    100418: Skull_FK_Ctrl
+    100420: Skull_FK_Grp
+    100422: Skull_IK_Ctrl
+    100424: Skull_IK_Grp
+    100426: Spine_FK_Ctrl
+    100428: Spine_FK_Grp
+    100430: Tail_Base_IK_Ctrl
+    100432: Tail_Base_IK_Grp
+    100434: Tail_Bone_FK_Ctrl
+    100436: Tail_Bone_FK_Grp
+    100438: Tail_Jnt_1_FK_Ctrl
+    100440: Tail_Jnt_1_FK_Grp
+    100442: Tail_Jnt_2_FK_Ctrl
+    100444: Tail_Jnt_2_FK_Grp
+    100446: Tail_Jnt_3_FK_Ctrl
+    100448: Tail_Jnt_3_FK_Grp
+    100450: Tail_Jnt_4_FK_Ctrl
+    100452: Tail_Jnt_4_FK_Grp
+    100454: Tail_Jnt_5_FK_Ctrl
+    100456: Tail_Jnt_5_FK_Grp
+    100458: Tail_Jnt_6_FK_Ctrl
+    100460: Tail_Jnt_6_FK_Grp
+    100462: Tail_Jnt_7_FK_Ctrl
+    100464: Tail_Jnt_7_FK_Grp
+    100466: Tail_Jnt_8_FK_Ctrl
+    100468: Tail_Jnt_8_FK_Grp
+    100470: Tail_Pole_Vector_IK_Ctrl
+    100472: Tail_Pole_Vector_IK_Grp
+    100474: Tail_Tip_FK_Ctrl
+    100476: Tail_Tip_FK_Grp
+    100478: Tail_Tip_IK_Ctrl
+    100480: Tail_Tip_IK_Grp
+    100482: Transform
+    100484: Transform 1
+    100486: transform2
+    100488: transform3
+    100490: transform4
+    100492: transform5
+    100494: transform6
+    100496: transform7
+    400000: bottom
+    400002: COG_FK_Ctrl
+    400004: COG_FK_Grp
+    400006: Dino_Mesh
+    400008: FK_COG
+    400010: FK_Hip
+    400012: FK_L_Ankle
+    400014: FK_L_Elbow
+    400016: FK_L_Hip
+    400018: FK_L_Knee_1
+    400020: FK_L_Knee_2
+    400022: FK_L_Shoulder
+    400024: FK_L_Wrist
+    400026: FK_Neck_Base
+    400028: FK_Neck_Jnt_1
+    400030: FK_Neck_Jnt_2
+    400032: FK_R_Ankle
+    400034: FK_R_Elbow
+    400036: FK_R_HIp
+    400038: FK_R_Knee_1
+    400040: FK_R_Knee_2
+    400042: FK_R_Shoulder
+    400044: FK_R_Wrist
+    400046: FK_Skull
+    400048: FK_Spine
+    400050: FK_System
+    400052: FK_Tail_Base
+    400054: FK_Tail_jnt_1
+    400056: FK_Tail_jnt_2
+    400058: FK_Tail_jnt_3
+    400060: FK_Tail_jnt_4
+    400062: FK_Tail_jnt_5
+    400064: FK_Tail_jnt_6
+    400066: FK_Tail_jnt_7
+    400068: FK_Tail_jnt_8
+    400070: FK_Tail_Tip
+    400072: Hip_FK_Ctrl
+    400074: Hip_FK_Grp
+    400076: //RootNode
+    400078: IK_COG
+    400080: IK_Hip
+    400082: IK_L_Ankle
+    400084: IK_L_Elbow
+    400086: IK_L_Hip
+    400088: IK_L_Knee_1
+    400090: IK_L_Knee_2
+    400092: IK_L_Shoulder
+    400094: IK_L_Wrist
+    400096: IK_Neck_Base
+    400098: IK_Neck_Jnt_1
+    400100: IK_Neck_Jnt_2
+    400102: IK_R_Ankle
+    400104: IK_R_Elbow
+    400106: IK_R_Hip
+    400108: IK_R_Knee_1
+    400110: IK_R_Knee_2
+    400112: IK_R_Shoulder
+    400114: IK_R_Wrist
+    400116: IK_Skull
+    400118: IK_Spine
+    400120: IK_System
+    400122: IK_Tail_Base
+    400124: IK_Tail_Jnt_1
+    400126: IK_Tail_Jnt_2
+    400128: IK_Tail_Jnt_3
+    400130: IK_Tail_Jnt_4
+    400132: IK_Tail_Jnt_5
+    400134: IK_Tail_Jnt_6
+    400136: IK_Tail_Jnt_7
+    400138: IK_Tail_Jnt_8
+    400140: IK_Tail_Tip
+    400142: ikHandle1
+    400144: ikHandle2
+    400146: ikHandle3
+    400148: ikHandle4
+    400150: ikHandle5
+    400152: ikHandle6
+    400154: imagePlane3
+    400156: L_Ankle_FK_Ctrl
+    400158: L_Ankle_FK_Grp
+    400160: L_Ankle_IK_Ctrl
+    400162: L_Ankle_IK_Grp
+    400164: L_Arm_Pole_Vector_IK_Ctrl
+    400166: L_Arm_Pole_Vector_IK_Grp
+    400168: L_Elbow_FK_Ctrl
+    400170: L_Elbow_FK_Grp
+    400172: L_Hip_FK_Ctrl
+    400174: L_Hip_FK_Grp
+    400176: L_Hip_IK_Ctrl
+    400178: L_Hip_IK_Grp
+    400180: L_Knee_1_FK_Ctrl
+    400182: L_Knee_1_FK_Grp
+    400184: L_Knee_2_FK_Ctrl
+    400186: L_Knee_2_FK_Grp
+    400188: L_Shoulder_FK_Ctrl
+    400190: L_Shoulder_FK_Grp
+    400192: L_Shoulder_IK_Ctrl
+    400194: L_Shoulder_IK_Grp
+    400196: L_Wrist_FK_Ctrl
+    400198: L_Wrist_FK_Grp
+    400200: L_Wrist_IK_Ctrl
+    400202: L_Wrist_IK_Grp
+    400204: left
+    400206: Neck_Base_FK_Ctrl
+    400208: Neck_Base_FK_Grp
+    400210: Neck_IK_Ctrl
+    400212: Neck_IK_Grp
+    400214: Neck_Jnt_1_FK_Ctrl
+    400216: Neck_Jnt_1_FK_Grp
+    400218: Neck_Jnt_2_FK_Ctrl
+    400220: Neck_Jnt_2_FK_Grp
+    400222: Neck_Pole_Vector_IK_Ctrl
+    400224: Neck_Pole_Vector_IK_Grp
+    400226: pCone10
+    400228: pCone11
+    400230: pCone12
+    400232: pCylinder18
+    400234: pCylinder20
+    400236: pCylinder5
+    400238: polySurface100
+    400240: polySurface102
+    400242: polySurface104
+    400244: polySurface106
+    400246: polySurface108
+    400248: polySurface110
+    400250: polySurface112
+    400252: polySurface117
+    400254: polySurface118
+    400256: polySurface118 1
+    400258: polySurface119
+    400260: polySurface120
+    400262: polySurface21
+    400264: polySurface23
+    400266: polySurface24
+    400268: polySurface26
+    400270: polySurface33
+    400272: polySurface35
+    400274: polySurface37
+    400276: polySurface42
+    400278: polySurface44
+    400280: polySurface54
+    400282: polySurface54_polySurface56_polySurface64_polySurface66
+    400284: polySurface65
+    400286: polySurface71
+    400288: polySurface73
+    400290: polySurface75
+    400292: polySurface85
+    400294: polySurface98
+    400296: pPipe1
+    400298: pPipe2
+    400300: pPipe3
+    400302: pPipe4
+    400304: pSphere14
+    400306: pSphere31
+    400308: R_Ankle_FK_Ctrl
+    400310: R_Ankle_FK_Grp
+    400312: R_Ankle_IK_Ctrl
+    400314: R_Ankle_IK_Grp
+    400316: R_Arm_Pole_Vector_IK_Ctrl
+    400318: R_Arm_Pole_Vector_IK_Grp
+    400320: R_Elbow_FK_Ctrl
+    400322: R_Elbow_FK_Grp
+    400324: R_Hip_FK_Ctrl
+    400326: R_Hip_FK_Grp
+    400328: R_Hip_IK_Ctrl
+    400330: R_Hip_IK_Grp
+    400332: R_Knee_1_FK_Ctrl
+    400334: R_Knee_1_FK_Grp
+    400336: R_Knee_2_FK_Ctrl
+    400338: R_Knee_2_FK_Grp
+    400340: R_Shoulder_FK_Ctrl
+    400342: R_Shoulder_FK_Grp
+    400344: R_Shoulder_IK_Ctrl
+    400346: R_Shoulder_IK_Grp
+    400348: R_Wrist_FK_Ctrl
+    400350: R_Wrist_FK_Grp
+    400352: R_Wrist_IK_Ctrl
+    400354: R_Wrist_IK_Grp
+    400356: RK_COG
+    400358: RK_Hip
+    400360: RK_L_Ankle
+    400362: RK_L_Elbow
+    400364: RK_L_Hip
+    400366: RK_L_Knee_Jnt_1
+    400368: RK_L_Knee_Jnt_2
+    400370: RK_L_Shoulder
+    400372: RK_L_Wrist
+    400374: RK_Neck_Base
+    400376: RK_Neck_Jnt_1
+    400378: RK_Neck_Jnt_2
+    400380: RK_R_Ankle
+    400382: RK_R_Elbow
+    400384: RK_R_Hip
+    400386: RK_R_Knee_1
+    400388: RK_R_Knee_2
+    400390: RK_R_Shoulder
+    400392: RK_R_Wrist
+    400394: Rk_Skull
+    400396: RK_Spine
+    400398: RK_Tail_Base
+    400400: RK_Tail_Jnt_1
+    400402: RK_Tail_Jnt_2
+    400404: RK_Tail_Jnt_3
+    400406: RK_Tail_Jnt_4
+    400408: RK_Tail_Jnt_5
+    400410: RK_Tail_Jnt_6
+    400412: RK_Tail_Jnt_7
+    400414: RK_Tail_Jnt_8
+    400416: RK_Tail_Tip
+    400418: Skull_FK_Ctrl
+    400420: Skull_FK_Grp
+    400422: Skull_IK_Ctrl
+    400424: Skull_IK_Grp
+    400426: Spine_FK_Ctrl
+    400428: Spine_FK_Grp
+    400430: Tail_Base_IK_Ctrl
+    400432: Tail_Base_IK_Grp
+    400434: Tail_Bone_FK_Ctrl
+    400436: Tail_Bone_FK_Grp
+    400438: Tail_Jnt_1_FK_Ctrl
+    400440: Tail_Jnt_1_FK_Grp
+    400442: Tail_Jnt_2_FK_Ctrl
+    400444: Tail_Jnt_2_FK_Grp
+    400446: Tail_Jnt_3_FK_Ctrl
+    400448: Tail_Jnt_3_FK_Grp
+    400450: Tail_Jnt_4_FK_Ctrl
+    400452: Tail_Jnt_4_FK_Grp
+    400454: Tail_Jnt_5_FK_Ctrl
+    400456: Tail_Jnt_5_FK_Grp
+    400458: Tail_Jnt_6_FK_Ctrl
+    400460: Tail_Jnt_6_FK_Grp
+    400462: Tail_Jnt_7_FK_Ctrl
+    400464: Tail_Jnt_7_FK_Grp
+    400466: Tail_Jnt_8_FK_Ctrl
+    400468: Tail_Jnt_8_FK_Grp
+    400470: Tail_Pole_Vector_IK_Ctrl
+    400472: Tail_Pole_Vector_IK_Grp
+    400474: Tail_Tip_FK_Ctrl
+    400476: Tail_Tip_FK_Grp
+    400478: Tail_Tip_IK_Ctrl
+    400480: Tail_Tip_IK_Grp
+    400482: Transform
+    400484: Transform 1
+    400486: transform2
+    400488: transform3
+    400490: transform4
+    400492: transform5
+    400494: transform6
+    400496: transform7
+    2300000: imagePlane3
+    2300002: pCylinder20
+    2300004: pCylinder5
+    2300006: polySurface100
+    2300008: polySurface102
+    2300010: polySurface104
+    2300012: polySurface106
+    2300014: polySurface108
+    2300016: polySurface110
+    2300018: polySurface112
+    2300020: polySurface117
+    2300022: polySurface118
+    2300024: polySurface21
+    2300026: polySurface23
+    2300028: polySurface24
+    2300030: polySurface26
+    2300032: polySurface33
+    2300034: polySurface35
+    2300036: polySurface37
+    2300038: polySurface42
+    2300040: polySurface44
+    2300042: polySurface54
+    2300044: polySurface54_polySurface56_polySurface64_polySurface66
+    2300046: polySurface65
+    2300048: polySurface71
+    2300050: polySurface73
+    2300052: polySurface75
+    2300054: polySurface85
+    2300056: polySurface98
+    2300058: pPipe3
+    2300060: pPipe4
+    2300062: pSphere31
+    3300000: imagePlane3
+    3300002: pCylinder20
+    3300004: pCylinder5
+    3300006: polySurface100
+    3300008: polySurface102
+    3300010: polySurface104
+    3300012: polySurface106
+    3300014: polySurface108
+    3300016: polySurface110
+    3300018: polySurface112
+    3300020: polySurface117
+    3300022: polySurface118
+    3300024: polySurface21
+    3300026: polySurface23
+    3300028: polySurface24
+    3300030: polySurface26
+    3300032: polySurface33
+    3300034: polySurface35
+    3300036: polySurface37
+    3300038: polySurface42
+    3300040: polySurface44
+    3300042: polySurface54
+    3300044: polySurface54_polySurface56_polySurface64_polySurface66
+    3300046: polySurface65
+    3300048: polySurface71
+    3300050: polySurface73
+    3300052: polySurface75
+    3300054: polySurface85
+    3300056: polySurface98
+    3300058: pPipe3
+    3300060: pPipe4
+    3300062: pSphere31
+    4300000: polySurface75
+    4300002: polySurface44
+    4300004: polySurface54
+    4300006: polySurface33
+    4300008: polySurface23
+    4300010: polySurface21
+    4300012: pCylinder20
+    4300014: polySurface117
+    4300016: polySurface112
+    4300018: polySurface110
+    4300020: polySurface108
+    4300022: polySurface106
+    4300024: polySurface104
+    4300026: polySurface102
+    4300028: polySurface100
+    4300030: polySurface98
+    4300032: imagePlane3
+    4300034: pSphere31
+    4300036: polySurface85
+    4300038: pCylinder5
+    4300040: polySurface54_polySurface56_polySurface64_polySurface66
+    4300042: polySurface65
+    4300044: polySurface73
+    4300046: polySurface71
+    4300048: polySurface24
+    4300050: polySurface26
+    4300052: polySurface35
+    4300054: polySurface37
+    4300056: polySurface42
+    4300058: polySurface118
+    4300060: pPipe3
+    4300062: pPipe4
+    7400000: Idle Animation
+    7400002: Death Animation
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle Animation
+      takeName: Take 001
+      firstFrame: 11
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: Dino_Mesh
+        weight: 1
+      - path: Dino_Mesh/imagePlane3
+        weight: 1
+      - path: Dino_Mesh/imagePlane3/pSphere31
+        weight: 1
+      - path: Dino_Mesh/pCone10
+        weight: 1
+      - path: Dino_Mesh/pCone11
+        weight: 1
+      - path: Dino_Mesh/pCone12
+        weight: 1
+      - path: Dino_Mesh/pCylinder5
+        weight: 1
+      - path: Dino_Mesh/pCylinder18
+        weight: 1
+      - path: Dino_Mesh/pCylinder18/polySurface118 1
+        weight: 1
+      - path: Dino_Mesh/pCylinder18/polySurface118 1/transform3
+        weight: 1
+      - path: Dino_Mesh/pCylinder18/polySurface119
+        weight: 1
+      - path: Dino_Mesh/pCylinder18/polySurface119/transform6
+        weight: 1
+      - path: Dino_Mesh/pCylinder18/polySurface120
+        weight: 1
+      - path: Dino_Mesh/pCylinder18/polySurface120/transform4
+        weight: 1
+      - path: Dino_Mesh/pCylinder20
+        weight: 1
+      - path: Dino_Mesh/polySurface21
+        weight: 1
+      - path: Dino_Mesh/polySurface23
+        weight: 1
+      - path: Dino_Mesh/polySurface24
+        weight: 1
+      - path: Dino_Mesh/polySurface26
+        weight: 1
+      - path: Dino_Mesh/polySurface33
+        weight: 1
+      - path: Dino_Mesh/polySurface35
+        weight: 1
+      - path: Dino_Mesh/polySurface37
+        weight: 1
+      - path: Dino_Mesh/polySurface42
+        weight: 1
+      - path: Dino_Mesh/polySurface44
+        weight: 1
+      - path: Dino_Mesh/polySurface54
+        weight: 1
+      - path: Dino_Mesh/polySurface54_polySurface56_polySurface64_polySurface66
+        weight: 1
+      - path: Dino_Mesh/polySurface65
+        weight: 1
+      - path: Dino_Mesh/polySurface71
+        weight: 1
+      - path: Dino_Mesh/polySurface73
+        weight: 1
+      - path: Dino_Mesh/polySurface75
+        weight: 1
+      - path: Dino_Mesh/polySurface85
+        weight: 1
+      - path: Dino_Mesh/polySurface98
+        weight: 1
+      - path: Dino_Mesh/polySurface100
+        weight: 1
+      - path: Dino_Mesh/polySurface102
+        weight: 1
+      - path: Dino_Mesh/polySurface104
+        weight: 1
+      - path: Dino_Mesh/polySurface106
+        weight: 1
+      - path: Dino_Mesh/polySurface108
+        weight: 1
+      - path: Dino_Mesh/polySurface110
+        weight: 1
+      - path: Dino_Mesh/polySurface112
+        weight: 1
+      - path: Dino_Mesh/polySurface117
+        weight: 1
+      - path: Dino_Mesh/polySurface118
+        weight: 1
+      - path: Dino_Mesh/pPipe1
+        weight: 1
+      - path: Dino_Mesh/pPipe1/transform5
+        weight: 1
+      - path: Dino_Mesh/pPipe2
+        weight: 1
+      - path: Dino_Mesh/pPipe2/transform7
+        weight: 1
+      - path: Dino_Mesh/pPipe3
+        weight: 1
+      - path: Dino_Mesh/pPipe4
+        weight: 1
+      - path: Dino_Mesh/pSphere14
+        weight: 1
+      - path: Dino_Mesh/pSphere14/transform2
+        weight: 1
+      - path: FK_COG
+        weight: 1
+      - path: FK_COG/FK_Hip
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_L_Hip
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_L_Hip/FK_L_Knee_1
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_L_Hip/FK_L_Knee_1/FK_L_Knee_2
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_L_Hip/FK_L_Knee_1/FK_L_Knee_2/FK_L_Ankle
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_R_HIp
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_R_HIp/FK_R_Knee_1
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_R_HIp/FK_R_Knee_1/FK_R_Knee_2
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_R_HIp/FK_R_Knee_1/FK_R_Knee_2/FK_R_Ankle
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_Tail_Base
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_Tail_Base/FK_Tail_jnt_1
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_Tail_Base/FK_Tail_jnt_1/FK_Tail_jnt_2
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_Tail_Base/FK_Tail_jnt_1/FK_Tail_jnt_2/FK_Tail_jnt_3
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_Tail_Base/FK_Tail_jnt_1/FK_Tail_jnt_2/FK_Tail_jnt_3/FK_Tail_jnt_4
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_Tail_Base/FK_Tail_jnt_1/FK_Tail_jnt_2/FK_Tail_jnt_3/FK_Tail_jnt_4/FK_Tail_jnt_5
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_Tail_Base/FK_Tail_jnt_1/FK_Tail_jnt_2/FK_Tail_jnt_3/FK_Tail_jnt_4/FK_Tail_jnt_5/FK_Tail_jnt_6
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_Tail_Base/FK_Tail_jnt_1/FK_Tail_jnt_2/FK_Tail_jnt_3/FK_Tail_jnt_4/FK_Tail_jnt_5/FK_Tail_jnt_6/FK_Tail_jnt_7
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_Tail_Base/FK_Tail_jnt_1/FK_Tail_jnt_2/FK_Tail_jnt_3/FK_Tail_jnt_4/FK_Tail_jnt_5/FK_Tail_jnt_6/FK_Tail_jnt_7/FK_Tail_jnt_8
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_Tail_Base/FK_Tail_jnt_1/FK_Tail_jnt_2/FK_Tail_jnt_3/FK_Tail_jnt_4/FK_Tail_jnt_5/FK_Tail_jnt_6/FK_Tail_jnt_7/FK_Tail_jnt_8/FK_Tail_Tip
+        weight: 1
+      - path: FK_COG/FK_Spine
+        weight: 1
+      - path: FK_COG/FK_Spine/FK_L_Shoulder
+        weight: 1
+      - path: FK_COG/FK_Spine/FK_L_Shoulder/FK_L_Elbow
+        weight: 1
+      - path: FK_COG/FK_Spine/FK_L_Shoulder/FK_L_Elbow/FK_L_Wrist
+        weight: 1
+      - path: FK_COG/FK_Spine/FK_Neck_Base
+        weight: 1
+      - path: FK_COG/FK_Spine/FK_Neck_Base/FK_Neck_Jnt_1
+        weight: 1
+      - path: FK_COG/FK_Spine/FK_Neck_Base/FK_Neck_Jnt_1/FK_Neck_Jnt_2
+        weight: 1
+      - path: FK_COG/FK_Spine/FK_Neck_Base/FK_Neck_Jnt_1/FK_Neck_Jnt_2/FK_Skull
+        weight: 1
+      - path: FK_COG/FK_Spine/FK_R_Shoulder
+        weight: 1
+      - path: FK_COG/FK_Spine/FK_R_Shoulder/FK_R_Elbow
+        weight: 1
+      - path: FK_COG/FK_Spine/FK_R_Shoulder/FK_R_Elbow/FK_R_Wrist
+        weight: 1
+      - path: IK_COG
+        weight: 1
+      - path: IK_COG/IK_Hip
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_L_Hip
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_L_Hip/IK_L_Knee_1
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_L_Hip/IK_L_Knee_1/IK_L_Knee_2
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_L_Hip/IK_L_Knee_1/IK_L_Knee_2/IK_L_Ankle
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_R_Hip
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_R_Hip/IK_R_Knee_1
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_R_Hip/IK_R_Knee_1/IK_R_Knee_2
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_R_Hip/IK_R_Knee_1/IK_R_Knee_2/IK_R_Ankle
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_Tail_Base
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_Tail_Base/IK_Tail_Jnt_1
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_Tail_Base/IK_Tail_Jnt_1/IK_Tail_Jnt_2
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_Tail_Base/IK_Tail_Jnt_1/IK_Tail_Jnt_2/IK_Tail_Jnt_3
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_Tail_Base/IK_Tail_Jnt_1/IK_Tail_Jnt_2/IK_Tail_Jnt_3/IK_Tail_Jnt_4
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_Tail_Base/IK_Tail_Jnt_1/IK_Tail_Jnt_2/IK_Tail_Jnt_3/IK_Tail_Jnt_4/IK_Tail_Jnt_5
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_Tail_Base/IK_Tail_Jnt_1/IK_Tail_Jnt_2/IK_Tail_Jnt_3/IK_Tail_Jnt_4/IK_Tail_Jnt_5/IK_Tail_Jnt_6
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_Tail_Base/IK_Tail_Jnt_1/IK_Tail_Jnt_2/IK_Tail_Jnt_3/IK_Tail_Jnt_4/IK_Tail_Jnt_5/IK_Tail_Jnt_6/IK_Tail_Jnt_7
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_Tail_Base/IK_Tail_Jnt_1/IK_Tail_Jnt_2/IK_Tail_Jnt_3/IK_Tail_Jnt_4/IK_Tail_Jnt_5/IK_Tail_Jnt_6/IK_Tail_Jnt_7/IK_Tail_Jnt_8
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_Tail_Base/IK_Tail_Jnt_1/IK_Tail_Jnt_2/IK_Tail_Jnt_3/IK_Tail_Jnt_4/IK_Tail_Jnt_5/IK_Tail_Jnt_6/IK_Tail_Jnt_7/IK_Tail_Jnt_8/IK_Tail_Tip
+        weight: 1
+      - path: IK_COG/IK_Spine
+        weight: 1
+      - path: IK_COG/IK_Spine/IK_L_Shoulder
+        weight: 1
+      - path: IK_COG/IK_Spine/IK_L_Shoulder/IK_L_Elbow
+        weight: 1
+      - path: IK_COG/IK_Spine/IK_L_Shoulder/IK_L_Elbow/IK_L_Wrist
+        weight: 1
+      - path: IK_COG/IK_Spine/IK_Neck_Base
+        weight: 1
+      - path: IK_COG/IK_Spine/IK_Neck_Base/IK_Neck_Jnt_1
+        weight: 1
+      - path: IK_COG/IK_Spine/IK_Neck_Base/IK_Neck_Jnt_1/IK_Neck_Jnt_2
+        weight: 1
+      - path: IK_COG/IK_Spine/IK_Neck_Base/IK_Neck_Jnt_1/IK_Neck_Jnt_2/IK_Skull
+        weight: 1
+      - path: IK_COG/IK_Spine/IK_R_Shoulder
+        weight: 1
+      - path: IK_COG/IK_Spine/IK_R_Shoulder/IK_R_Elbow
+        weight: 1
+      - path: IK_COG/IK_Spine/IK_R_Shoulder/IK_R_Elbow/IK_R_Wrist
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle2
+        weight: 1
+      - path: ikHandle3
+        weight: 1
+      - path: ikHandle4
+        weight: 1
+      - path: ikHandle5
+        weight: 1
+      - path: ikHandle6
+        weight: 1
+      - path: left
+        weight: 1
+      - path: RK_COG
+        weight: 1
+      - path: RK_COG/RK_Hip
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_L_Hip
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_L_Hip/RK_L_Knee_Jnt_1
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_L_Hip/RK_L_Knee_Jnt_1/RK_L_Knee_Jnt_2
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_L_Hip/RK_L_Knee_Jnt_1/RK_L_Knee_Jnt_2/RK_L_Ankle
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_R_Hip
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_R_Hip/RK_R_Knee_1
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_R_Hip/RK_R_Knee_1/RK_R_Knee_2
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_R_Hip/RK_R_Knee_1/RK_R_Knee_2/RK_R_Ankle
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_Tail_Base
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_Tail_Base/RK_Tail_Jnt_1
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_Tail_Base/RK_Tail_Jnt_1/RK_Tail_Jnt_2
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_Tail_Base/RK_Tail_Jnt_1/RK_Tail_Jnt_2/RK_Tail_Jnt_3
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_Tail_Base/RK_Tail_Jnt_1/RK_Tail_Jnt_2/RK_Tail_Jnt_3/RK_Tail_Jnt_4
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_Tail_Base/RK_Tail_Jnt_1/RK_Tail_Jnt_2/RK_Tail_Jnt_3/RK_Tail_Jnt_4/RK_Tail_Jnt_5
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_Tail_Base/RK_Tail_Jnt_1/RK_Tail_Jnt_2/RK_Tail_Jnt_3/RK_Tail_Jnt_4/RK_Tail_Jnt_5/RK_Tail_Jnt_6
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_Tail_Base/RK_Tail_Jnt_1/RK_Tail_Jnt_2/RK_Tail_Jnt_3/RK_Tail_Jnt_4/RK_Tail_Jnt_5/RK_Tail_Jnt_6/RK_Tail_Jnt_7
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_Tail_Base/RK_Tail_Jnt_1/RK_Tail_Jnt_2/RK_Tail_Jnt_3/RK_Tail_Jnt_4/RK_Tail_Jnt_5/RK_Tail_Jnt_6/RK_Tail_Jnt_7/RK_Tail_Jnt_8
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_Tail_Base/RK_Tail_Jnt_1/RK_Tail_Jnt_2/RK_Tail_Jnt_3/RK_Tail_Jnt_4/RK_Tail_Jnt_5/RK_Tail_Jnt_6/RK_Tail_Jnt_7/RK_Tail_Jnt_8/RK_Tail_Tip
+        weight: 1
+      - path: RK_COG/RK_Spine
+        weight: 1
+      - path: RK_COG/RK_Spine/RK_L_Shoulder
+        weight: 1
+      - path: RK_COG/RK_Spine/RK_L_Shoulder/RK_L_Elbow
+        weight: 1
+      - path: RK_COG/RK_Spine/RK_L_Shoulder/RK_L_Elbow/RK_L_Wrist
+        weight: 1
+      - path: RK_COG/RK_Spine/RK_Neck_Base
+        weight: 1
+      - path: RK_COG/RK_Spine/RK_Neck_Base/RK_Neck_Jnt_1
+        weight: 1
+      - path: RK_COG/RK_Spine/RK_Neck_Base/RK_Neck_Jnt_1/RK_Neck_Jnt_2
+        weight: 1
+      - path: RK_COG/RK_Spine/RK_Neck_Base/RK_Neck_Jnt_1/RK_Neck_Jnt_2/Rk_Skull
+        weight: 1
+      - path: RK_COG/RK_Spine/RK_R_Shoulder
+        weight: 1
+      - path: RK_COG/RK_Spine/RK_R_Shoulder/RK_R_Elbow
+        weight: 1
+      - path: RK_COG/RK_Spine/RK_R_Shoulder/RK_R_Elbow/RK_R_Wrist
+        weight: 1
+      - path: Transform
+        weight: 1
+      - path: Transform/Transform 1
+        weight: 1
+      - path: Transform/Transform 1/FK_System
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/L_Hip_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/L_Hip_FK_Grp/L_Hip_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/L_Hip_FK_Grp/L_Hip_FK_Ctrl/L_Knee_1_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/L_Hip_FK_Grp/L_Hip_FK_Ctrl/L_Knee_1_FK_Grp/L_Knee_1_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/L_Hip_FK_Grp/L_Hip_FK_Ctrl/L_Knee_1_FK_Grp/L_Knee_1_FK_Ctrl/L_Knee_2_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/L_Hip_FK_Grp/L_Hip_FK_Ctrl/L_Knee_1_FK_Grp/L_Knee_1_FK_Ctrl/L_Knee_2_FK_Grp/L_Knee_2_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/L_Hip_FK_Grp/L_Hip_FK_Ctrl/L_Knee_1_FK_Grp/L_Knee_1_FK_Ctrl/L_Knee_2_FK_Grp/L_Knee_2_FK_Ctrl/L_Ankle_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/L_Hip_FK_Grp/L_Hip_FK_Ctrl/L_Knee_1_FK_Grp/L_Knee_1_FK_Ctrl/L_Knee_2_FK_Grp/L_Knee_2_FK_Ctrl/L_Ankle_FK_Grp/L_Ankle_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/R_Hip_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/R_Hip_FK_Grp/R_Hip_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/R_Hip_FK_Grp/R_Hip_FK_Ctrl/R_Knee_1_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/R_Hip_FK_Grp/R_Hip_FK_Ctrl/R_Knee_1_FK_Grp/R_Knee_1_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/R_Hip_FK_Grp/R_Hip_FK_Ctrl/R_Knee_1_FK_Grp/R_Knee_1_FK_Ctrl/R_Knee_2_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/R_Hip_FK_Grp/R_Hip_FK_Ctrl/R_Knee_1_FK_Grp/R_Knee_1_FK_Ctrl/R_Knee_2_FK_Grp/R_Knee_2_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/R_Hip_FK_Grp/R_Hip_FK_Ctrl/R_Knee_1_FK_Grp/R_Knee_1_FK_Ctrl/R_Knee_2_FK_Grp/R_Knee_2_FK_Ctrl/R_Ankle_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/R_Hip_FK_Grp/R_Hip_FK_Ctrl/R_Knee_1_FK_Grp/R_Knee_1_FK_Ctrl/R_Knee_2_FK_Grp/R_Knee_2_FK_Ctrl/R_Ankle_FK_Grp/R_Ankle_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl/Tail_Jnt_5_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl/Tail_Jnt_5_FK_Grp/Tail_Jnt_5_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl/Tail_Jnt_5_FK_Grp/Tail_Jnt_5_FK_Ctrl/Tail_Jnt_6_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl/Tail_Jnt_5_FK_Grp/Tail_Jnt_5_FK_Ctrl/Tail_Jnt_6_FK_Grp/Tail_Jnt_6_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl/Tail_Jnt_5_FK_Grp/Tail_Jnt_5_FK_Ctrl/Tail_Jnt_6_FK_Grp/Tail_Jnt_6_FK_Ctrl/Tail_Jnt_7_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl/Tail_Jnt_5_FK_Grp/Tail_Jnt_5_FK_Ctrl/Tail_Jnt_6_FK_Grp/Tail_Jnt_6_FK_Ctrl/Tail_Jnt_7_FK_Grp/Tail_Jnt_7_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl/Tail_Jnt_5_FK_Grp/Tail_Jnt_5_FK_Ctrl/Tail_Jnt_6_FK_Grp/Tail_Jnt_6_FK_Ctrl/Tail_Jnt_7_FK_Grp/Tail_Jnt_7_FK_Ctrl/Tail_Jnt_8_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl/Tail_Jnt_5_FK_Grp/Tail_Jnt_5_FK_Ctrl/Tail_Jnt_6_FK_Grp/Tail_Jnt_6_FK_Ctrl/Tail_Jnt_7_FK_Grp/Tail_Jnt_7_FK_Ctrl/Tail_Jnt_8_FK_Grp/Tail_Jnt_8_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl/Tail_Jnt_5_FK_Grp/Tail_Jnt_5_FK_Ctrl/Tail_Jnt_6_FK_Grp/Tail_Jnt_6_FK_Ctrl/Tail_Jnt_7_FK_Grp/Tail_Jnt_7_FK_Ctrl/Tail_Jnt_8_FK_Grp/Tail_Jnt_8_FK_Ctrl/Tail_Tip_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl/Tail_Jnt_5_FK_Grp/Tail_Jnt_5_FK_Ctrl/Tail_Jnt_6_FK_Grp/Tail_Jnt_6_FK_Ctrl/Tail_Jnt_7_FK_Grp/Tail_Jnt_7_FK_Ctrl/Tail_Jnt_8_FK_Grp/Tail_Jnt_8_FK_Ctrl/Tail_Tip_FK_Grp/Tail_Tip_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/L_Shoulder_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/L_Shoulder_FK_Grp/L_Shoulder_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/L_Shoulder_FK_Grp/L_Shoulder_FK_Ctrl/L_Elbow_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/L_Shoulder_FK_Grp/L_Shoulder_FK_Ctrl/L_Elbow_FK_Grp/L_Elbow_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/L_Shoulder_FK_Grp/L_Shoulder_FK_Ctrl/L_Elbow_FK_Grp/L_Elbow_FK_Ctrl/L_Wrist_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/L_Shoulder_FK_Grp/L_Shoulder_FK_Ctrl/L_Elbow_FK_Grp/L_Elbow_FK_Ctrl/L_Wrist_FK_Grp/L_Wrist_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/Neck_Base_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/Neck_Base_FK_Grp/Neck_Base_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/Neck_Base_FK_Grp/Neck_Base_FK_Ctrl/Neck_Jnt_1_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/Neck_Base_FK_Grp/Neck_Base_FK_Ctrl/Neck_Jnt_1_FK_Grp/Neck_Jnt_1_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/Neck_Base_FK_Grp/Neck_Base_FK_Ctrl/Neck_Jnt_1_FK_Grp/Neck_Jnt_1_FK_Ctrl/Neck_Jnt_2_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/Neck_Base_FK_Grp/Neck_Base_FK_Ctrl/Neck_Jnt_1_FK_Grp/Neck_Jnt_1_FK_Ctrl/Neck_Jnt_2_FK_Grp/Neck_Jnt_2_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/Neck_Base_FK_Grp/Neck_Base_FK_Ctrl/Neck_Jnt_1_FK_Grp/Neck_Jnt_1_FK_Ctrl/Neck_Jnt_2_FK_Grp/Neck_Jnt_2_FK_Ctrl/Skull_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/Neck_Base_FK_Grp/Neck_Base_FK_Ctrl/Neck_Jnt_1_FK_Grp/Neck_Jnt_1_FK_Ctrl/Neck_Jnt_2_FK_Grp/Neck_Jnt_2_FK_Ctrl/Skull_FK_Grp/Skull_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/R_Shoulder_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/R_Shoulder_FK_Grp/R_Shoulder_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/R_Shoulder_FK_Grp/R_Shoulder_FK_Ctrl/R_Elbow_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/R_Shoulder_FK_Grp/R_Shoulder_FK_Ctrl/R_Elbow_FK_Grp/R_Elbow_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/R_Shoulder_FK_Grp/R_Shoulder_FK_Ctrl/R_Elbow_FK_Grp/R_Elbow_FK_Ctrl/R_Wrist_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/R_Shoulder_FK_Grp/R_Shoulder_FK_Ctrl/R_Elbow_FK_Grp/R_Elbow_FK_Ctrl/R_Wrist_FK_Grp/R_Wrist_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System
+        weight: 1
+      - path: Transform/Transform 1/IK_System/L_Hip_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/L_Hip_IK_Grp/L_Hip_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/L_Hip_IK_Grp/L_Hip_IK_Ctrl/L_Ankle_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/L_Hip_IK_Grp/L_Hip_IK_Ctrl/L_Ankle_IK_Grp/L_Ankle_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/L_Shoulder_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/L_Shoulder_IK_Grp/L_Shoulder_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/L_Shoulder_IK_Grp/L_Shoulder_IK_Ctrl/L_Arm_Pole_Vector_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/L_Shoulder_IK_Grp/L_Shoulder_IK_Ctrl/L_Arm_Pole_Vector_IK_Grp/L_Arm_Pole_Vector_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/L_Shoulder_IK_Grp/L_Shoulder_IK_Ctrl/L_Wrist_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/L_Shoulder_IK_Grp/L_Shoulder_IK_Ctrl/L_Wrist_IK_Grp/L_Wrist_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Neck_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Neck_IK_Grp/Neck_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Neck_IK_Grp/Neck_IK_Ctrl/Neck_Pole_Vector_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Neck_IK_Grp/Neck_IK_Ctrl/Neck_Pole_Vector_IK_Grp/Neck_Pole_Vector_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Neck_IK_Grp/Neck_IK_Ctrl/Skull_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Neck_IK_Grp/Neck_IK_Ctrl/Skull_IK_Grp/Skull_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/R_Hip_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/R_Hip_IK_Grp/R_Hip_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/R_Hip_IK_Grp/R_Hip_IK_Ctrl/R_Ankle_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/R_Hip_IK_Grp/R_Hip_IK_Ctrl/R_Ankle_IK_Grp/R_Ankle_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/R_Shoulder_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/R_Shoulder_IK_Grp/R_Shoulder_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/R_Shoulder_IK_Grp/R_Shoulder_IK_Ctrl/R_Arm_Pole_Vector_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/R_Shoulder_IK_Grp/R_Shoulder_IK_Ctrl/R_Arm_Pole_Vector_IK_Grp/R_Arm_Pole_Vector_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/R_Shoulder_IK_Grp/R_Shoulder_IK_Ctrl/R_Wrist_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/R_Shoulder_IK_Grp/R_Shoulder_IK_Ctrl/R_Wrist_IK_Grp/R_Wrist_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Tail_Base_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Tail_Base_IK_Grp/Tail_Base_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Tail_Base_IK_Grp/Tail_Base_IK_Ctrl/Tail_Pole_Vector_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Tail_Base_IK_Grp/Tail_Base_IK_Ctrl/Tail_Pole_Vector_IK_Grp/Tail_Pole_Vector_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Tail_Base_IK_Grp/Tail_Base_IK_Ctrl/Tail_Tip_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Tail_Base_IK_Grp/Tail_Base_IK_Ctrl/Tail_Tip_IK_Grp/Tail_Tip_IK_Ctrl
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Death Animation
+      takeName: Take 001
+      firstFrame: 39
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: Dino_Mesh
+        weight: 1
+      - path: Dino_Mesh/imagePlane3
+        weight: 1
+      - path: Dino_Mesh/imagePlane3/pSphere31
+        weight: 1
+      - path: Dino_Mesh/pCone10
+        weight: 1
+      - path: Dino_Mesh/pCone11
+        weight: 1
+      - path: Dino_Mesh/pCone12
+        weight: 1
+      - path: Dino_Mesh/pCylinder5
+        weight: 1
+      - path: Dino_Mesh/pCylinder18
+        weight: 1
+      - path: Dino_Mesh/pCylinder18/polySurface118 1
+        weight: 1
+      - path: Dino_Mesh/pCylinder18/polySurface118 1/transform3
+        weight: 1
+      - path: Dino_Mesh/pCylinder18/polySurface119
+        weight: 1
+      - path: Dino_Mesh/pCylinder18/polySurface119/transform6
+        weight: 1
+      - path: Dino_Mesh/pCylinder18/polySurface120
+        weight: 1
+      - path: Dino_Mesh/pCylinder18/polySurface120/transform4
+        weight: 1
+      - path: Dino_Mesh/pCylinder20
+        weight: 1
+      - path: Dino_Mesh/polySurface21
+        weight: 1
+      - path: Dino_Mesh/polySurface23
+        weight: 1
+      - path: Dino_Mesh/polySurface24
+        weight: 1
+      - path: Dino_Mesh/polySurface26
+        weight: 1
+      - path: Dino_Mesh/polySurface33
+        weight: 1
+      - path: Dino_Mesh/polySurface35
+        weight: 1
+      - path: Dino_Mesh/polySurface37
+        weight: 1
+      - path: Dino_Mesh/polySurface42
+        weight: 1
+      - path: Dino_Mesh/polySurface44
+        weight: 1
+      - path: Dino_Mesh/polySurface54
+        weight: 1
+      - path: Dino_Mesh/polySurface54_polySurface56_polySurface64_polySurface66
+        weight: 1
+      - path: Dino_Mesh/polySurface65
+        weight: 1
+      - path: Dino_Mesh/polySurface71
+        weight: 1
+      - path: Dino_Mesh/polySurface73
+        weight: 1
+      - path: Dino_Mesh/polySurface75
+        weight: 1
+      - path: Dino_Mesh/polySurface85
+        weight: 1
+      - path: Dino_Mesh/polySurface98
+        weight: 1
+      - path: Dino_Mesh/polySurface100
+        weight: 1
+      - path: Dino_Mesh/polySurface102
+        weight: 1
+      - path: Dino_Mesh/polySurface104
+        weight: 1
+      - path: Dino_Mesh/polySurface106
+        weight: 1
+      - path: Dino_Mesh/polySurface108
+        weight: 1
+      - path: Dino_Mesh/polySurface110
+        weight: 1
+      - path: Dino_Mesh/polySurface112
+        weight: 1
+      - path: Dino_Mesh/polySurface117
+        weight: 1
+      - path: Dino_Mesh/polySurface118
+        weight: 1
+      - path: Dino_Mesh/pPipe1
+        weight: 1
+      - path: Dino_Mesh/pPipe1/transform5
+        weight: 1
+      - path: Dino_Mesh/pPipe2
+        weight: 1
+      - path: Dino_Mesh/pPipe2/transform7
+        weight: 1
+      - path: Dino_Mesh/pPipe3
+        weight: 1
+      - path: Dino_Mesh/pPipe4
+        weight: 1
+      - path: Dino_Mesh/pSphere14
+        weight: 1
+      - path: Dino_Mesh/pSphere14/transform2
+        weight: 1
+      - path: FK_COG
+        weight: 1
+      - path: FK_COG/FK_Hip
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_L_Hip
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_L_Hip/FK_L_Knee_1
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_L_Hip/FK_L_Knee_1/FK_L_Knee_2
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_L_Hip/FK_L_Knee_1/FK_L_Knee_2/FK_L_Ankle
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_R_HIp
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_R_HIp/FK_R_Knee_1
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_R_HIp/FK_R_Knee_1/FK_R_Knee_2
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_R_HIp/FK_R_Knee_1/FK_R_Knee_2/FK_R_Ankle
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_Tail_Base
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_Tail_Base/FK_Tail_jnt_1
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_Tail_Base/FK_Tail_jnt_1/FK_Tail_jnt_2
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_Tail_Base/FK_Tail_jnt_1/FK_Tail_jnt_2/FK_Tail_jnt_3
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_Tail_Base/FK_Tail_jnt_1/FK_Tail_jnt_2/FK_Tail_jnt_3/FK_Tail_jnt_4
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_Tail_Base/FK_Tail_jnt_1/FK_Tail_jnt_2/FK_Tail_jnt_3/FK_Tail_jnt_4/FK_Tail_jnt_5
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_Tail_Base/FK_Tail_jnt_1/FK_Tail_jnt_2/FK_Tail_jnt_3/FK_Tail_jnt_4/FK_Tail_jnt_5/FK_Tail_jnt_6
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_Tail_Base/FK_Tail_jnt_1/FK_Tail_jnt_2/FK_Tail_jnt_3/FK_Tail_jnt_4/FK_Tail_jnt_5/FK_Tail_jnt_6/FK_Tail_jnt_7
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_Tail_Base/FK_Tail_jnt_1/FK_Tail_jnt_2/FK_Tail_jnt_3/FK_Tail_jnt_4/FK_Tail_jnt_5/FK_Tail_jnt_6/FK_Tail_jnt_7/FK_Tail_jnt_8
+        weight: 1
+      - path: FK_COG/FK_Hip/FK_Tail_Base/FK_Tail_jnt_1/FK_Tail_jnt_2/FK_Tail_jnt_3/FK_Tail_jnt_4/FK_Tail_jnt_5/FK_Tail_jnt_6/FK_Tail_jnt_7/FK_Tail_jnt_8/FK_Tail_Tip
+        weight: 1
+      - path: FK_COG/FK_Spine
+        weight: 1
+      - path: FK_COG/FK_Spine/FK_L_Shoulder
+        weight: 1
+      - path: FK_COG/FK_Spine/FK_L_Shoulder/FK_L_Elbow
+        weight: 1
+      - path: FK_COG/FK_Spine/FK_L_Shoulder/FK_L_Elbow/FK_L_Wrist
+        weight: 1
+      - path: FK_COG/FK_Spine/FK_Neck_Base
+        weight: 1
+      - path: FK_COG/FK_Spine/FK_Neck_Base/FK_Neck_Jnt_1
+        weight: 1
+      - path: FK_COG/FK_Spine/FK_Neck_Base/FK_Neck_Jnt_1/FK_Neck_Jnt_2
+        weight: 1
+      - path: FK_COG/FK_Spine/FK_Neck_Base/FK_Neck_Jnt_1/FK_Neck_Jnt_2/FK_Skull
+        weight: 1
+      - path: FK_COG/FK_Spine/FK_R_Shoulder
+        weight: 1
+      - path: FK_COG/FK_Spine/FK_R_Shoulder/FK_R_Elbow
+        weight: 1
+      - path: FK_COG/FK_Spine/FK_R_Shoulder/FK_R_Elbow/FK_R_Wrist
+        weight: 1
+      - path: IK_COG
+        weight: 1
+      - path: IK_COG/IK_Hip
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_L_Hip
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_L_Hip/IK_L_Knee_1
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_L_Hip/IK_L_Knee_1/IK_L_Knee_2
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_L_Hip/IK_L_Knee_1/IK_L_Knee_2/IK_L_Ankle
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_R_Hip
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_R_Hip/IK_R_Knee_1
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_R_Hip/IK_R_Knee_1/IK_R_Knee_2
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_R_Hip/IK_R_Knee_1/IK_R_Knee_2/IK_R_Ankle
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_Tail_Base
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_Tail_Base/IK_Tail_Jnt_1
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_Tail_Base/IK_Tail_Jnt_1/IK_Tail_Jnt_2
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_Tail_Base/IK_Tail_Jnt_1/IK_Tail_Jnt_2/IK_Tail_Jnt_3
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_Tail_Base/IK_Tail_Jnt_1/IK_Tail_Jnt_2/IK_Tail_Jnt_3/IK_Tail_Jnt_4
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_Tail_Base/IK_Tail_Jnt_1/IK_Tail_Jnt_2/IK_Tail_Jnt_3/IK_Tail_Jnt_4/IK_Tail_Jnt_5
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_Tail_Base/IK_Tail_Jnt_1/IK_Tail_Jnt_2/IK_Tail_Jnt_3/IK_Tail_Jnt_4/IK_Tail_Jnt_5/IK_Tail_Jnt_6
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_Tail_Base/IK_Tail_Jnt_1/IK_Tail_Jnt_2/IK_Tail_Jnt_3/IK_Tail_Jnt_4/IK_Tail_Jnt_5/IK_Tail_Jnt_6/IK_Tail_Jnt_7
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_Tail_Base/IK_Tail_Jnt_1/IK_Tail_Jnt_2/IK_Tail_Jnt_3/IK_Tail_Jnt_4/IK_Tail_Jnt_5/IK_Tail_Jnt_6/IK_Tail_Jnt_7/IK_Tail_Jnt_8
+        weight: 1
+      - path: IK_COG/IK_Hip/IK_Tail_Base/IK_Tail_Jnt_1/IK_Tail_Jnt_2/IK_Tail_Jnt_3/IK_Tail_Jnt_4/IK_Tail_Jnt_5/IK_Tail_Jnt_6/IK_Tail_Jnt_7/IK_Tail_Jnt_8/IK_Tail_Tip
+        weight: 1
+      - path: IK_COG/IK_Spine
+        weight: 1
+      - path: IK_COG/IK_Spine/IK_L_Shoulder
+        weight: 1
+      - path: IK_COG/IK_Spine/IK_L_Shoulder/IK_L_Elbow
+        weight: 1
+      - path: IK_COG/IK_Spine/IK_L_Shoulder/IK_L_Elbow/IK_L_Wrist
+        weight: 1
+      - path: IK_COG/IK_Spine/IK_Neck_Base
+        weight: 1
+      - path: IK_COG/IK_Spine/IK_Neck_Base/IK_Neck_Jnt_1
+        weight: 1
+      - path: IK_COG/IK_Spine/IK_Neck_Base/IK_Neck_Jnt_1/IK_Neck_Jnt_2
+        weight: 1
+      - path: IK_COG/IK_Spine/IK_Neck_Base/IK_Neck_Jnt_1/IK_Neck_Jnt_2/IK_Skull
+        weight: 1
+      - path: IK_COG/IK_Spine/IK_R_Shoulder
+        weight: 1
+      - path: IK_COG/IK_Spine/IK_R_Shoulder/IK_R_Elbow
+        weight: 1
+      - path: IK_COG/IK_Spine/IK_R_Shoulder/IK_R_Elbow/IK_R_Wrist
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle2
+        weight: 1
+      - path: ikHandle3
+        weight: 1
+      - path: ikHandle4
+        weight: 1
+      - path: ikHandle5
+        weight: 1
+      - path: ikHandle6
+        weight: 1
+      - path: left
+        weight: 1
+      - path: RK_COG
+        weight: 1
+      - path: RK_COG/RK_Hip
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_L_Hip
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_L_Hip/RK_L_Knee_Jnt_1
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_L_Hip/RK_L_Knee_Jnt_1/RK_L_Knee_Jnt_2
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_L_Hip/RK_L_Knee_Jnt_1/RK_L_Knee_Jnt_2/RK_L_Ankle
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_R_Hip
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_R_Hip/RK_R_Knee_1
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_R_Hip/RK_R_Knee_1/RK_R_Knee_2
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_R_Hip/RK_R_Knee_1/RK_R_Knee_2/RK_R_Ankle
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_Tail_Base
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_Tail_Base/RK_Tail_Jnt_1
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_Tail_Base/RK_Tail_Jnt_1/RK_Tail_Jnt_2
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_Tail_Base/RK_Tail_Jnt_1/RK_Tail_Jnt_2/RK_Tail_Jnt_3
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_Tail_Base/RK_Tail_Jnt_1/RK_Tail_Jnt_2/RK_Tail_Jnt_3/RK_Tail_Jnt_4
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_Tail_Base/RK_Tail_Jnt_1/RK_Tail_Jnt_2/RK_Tail_Jnt_3/RK_Tail_Jnt_4/RK_Tail_Jnt_5
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_Tail_Base/RK_Tail_Jnt_1/RK_Tail_Jnt_2/RK_Tail_Jnt_3/RK_Tail_Jnt_4/RK_Tail_Jnt_5/RK_Tail_Jnt_6
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_Tail_Base/RK_Tail_Jnt_1/RK_Tail_Jnt_2/RK_Tail_Jnt_3/RK_Tail_Jnt_4/RK_Tail_Jnt_5/RK_Tail_Jnt_6/RK_Tail_Jnt_7
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_Tail_Base/RK_Tail_Jnt_1/RK_Tail_Jnt_2/RK_Tail_Jnt_3/RK_Tail_Jnt_4/RK_Tail_Jnt_5/RK_Tail_Jnt_6/RK_Tail_Jnt_7/RK_Tail_Jnt_8
+        weight: 1
+      - path: RK_COG/RK_Hip/RK_Tail_Base/RK_Tail_Jnt_1/RK_Tail_Jnt_2/RK_Tail_Jnt_3/RK_Tail_Jnt_4/RK_Tail_Jnt_5/RK_Tail_Jnt_6/RK_Tail_Jnt_7/RK_Tail_Jnt_8/RK_Tail_Tip
+        weight: 1
+      - path: RK_COG/RK_Spine
+        weight: 1
+      - path: RK_COG/RK_Spine/RK_L_Shoulder
+        weight: 1
+      - path: RK_COG/RK_Spine/RK_L_Shoulder/RK_L_Elbow
+        weight: 1
+      - path: RK_COG/RK_Spine/RK_L_Shoulder/RK_L_Elbow/RK_L_Wrist
+        weight: 1
+      - path: RK_COG/RK_Spine/RK_Neck_Base
+        weight: 1
+      - path: RK_COG/RK_Spine/RK_Neck_Base/RK_Neck_Jnt_1
+        weight: 1
+      - path: RK_COG/RK_Spine/RK_Neck_Base/RK_Neck_Jnt_1/RK_Neck_Jnt_2
+        weight: 1
+      - path: RK_COG/RK_Spine/RK_Neck_Base/RK_Neck_Jnt_1/RK_Neck_Jnt_2/Rk_Skull
+        weight: 1
+      - path: RK_COG/RK_Spine/RK_R_Shoulder
+        weight: 1
+      - path: RK_COG/RK_Spine/RK_R_Shoulder/RK_R_Elbow
+        weight: 1
+      - path: RK_COG/RK_Spine/RK_R_Shoulder/RK_R_Elbow/RK_R_Wrist
+        weight: 1
+      - path: Transform
+        weight: 1
+      - path: Transform/Transform 1
+        weight: 1
+      - path: Transform/Transform 1/FK_System
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/L_Hip_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/L_Hip_FK_Grp/L_Hip_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/L_Hip_FK_Grp/L_Hip_FK_Ctrl/L_Knee_1_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/L_Hip_FK_Grp/L_Hip_FK_Ctrl/L_Knee_1_FK_Grp/L_Knee_1_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/L_Hip_FK_Grp/L_Hip_FK_Ctrl/L_Knee_1_FK_Grp/L_Knee_1_FK_Ctrl/L_Knee_2_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/L_Hip_FK_Grp/L_Hip_FK_Ctrl/L_Knee_1_FK_Grp/L_Knee_1_FK_Ctrl/L_Knee_2_FK_Grp/L_Knee_2_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/L_Hip_FK_Grp/L_Hip_FK_Ctrl/L_Knee_1_FK_Grp/L_Knee_1_FK_Ctrl/L_Knee_2_FK_Grp/L_Knee_2_FK_Ctrl/L_Ankle_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/L_Hip_FK_Grp/L_Hip_FK_Ctrl/L_Knee_1_FK_Grp/L_Knee_1_FK_Ctrl/L_Knee_2_FK_Grp/L_Knee_2_FK_Ctrl/L_Ankle_FK_Grp/L_Ankle_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/R_Hip_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/R_Hip_FK_Grp/R_Hip_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/R_Hip_FK_Grp/R_Hip_FK_Ctrl/R_Knee_1_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/R_Hip_FK_Grp/R_Hip_FK_Ctrl/R_Knee_1_FK_Grp/R_Knee_1_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/R_Hip_FK_Grp/R_Hip_FK_Ctrl/R_Knee_1_FK_Grp/R_Knee_1_FK_Ctrl/R_Knee_2_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/R_Hip_FK_Grp/R_Hip_FK_Ctrl/R_Knee_1_FK_Grp/R_Knee_1_FK_Ctrl/R_Knee_2_FK_Grp/R_Knee_2_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/R_Hip_FK_Grp/R_Hip_FK_Ctrl/R_Knee_1_FK_Grp/R_Knee_1_FK_Ctrl/R_Knee_2_FK_Grp/R_Knee_2_FK_Ctrl/R_Ankle_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/R_Hip_FK_Grp/R_Hip_FK_Ctrl/R_Knee_1_FK_Grp/R_Knee_1_FK_Ctrl/R_Knee_2_FK_Grp/R_Knee_2_FK_Ctrl/R_Ankle_FK_Grp/R_Ankle_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl/Tail_Jnt_5_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl/Tail_Jnt_5_FK_Grp/Tail_Jnt_5_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl/Tail_Jnt_5_FK_Grp/Tail_Jnt_5_FK_Ctrl/Tail_Jnt_6_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl/Tail_Jnt_5_FK_Grp/Tail_Jnt_5_FK_Ctrl/Tail_Jnt_6_FK_Grp/Tail_Jnt_6_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl/Tail_Jnt_5_FK_Grp/Tail_Jnt_5_FK_Ctrl/Tail_Jnt_6_FK_Grp/Tail_Jnt_6_FK_Ctrl/Tail_Jnt_7_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl/Tail_Jnt_5_FK_Grp/Tail_Jnt_5_FK_Ctrl/Tail_Jnt_6_FK_Grp/Tail_Jnt_6_FK_Ctrl/Tail_Jnt_7_FK_Grp/Tail_Jnt_7_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl/Tail_Jnt_5_FK_Grp/Tail_Jnt_5_FK_Ctrl/Tail_Jnt_6_FK_Grp/Tail_Jnt_6_FK_Ctrl/Tail_Jnt_7_FK_Grp/Tail_Jnt_7_FK_Ctrl/Tail_Jnt_8_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl/Tail_Jnt_5_FK_Grp/Tail_Jnt_5_FK_Ctrl/Tail_Jnt_6_FK_Grp/Tail_Jnt_6_FK_Ctrl/Tail_Jnt_7_FK_Grp/Tail_Jnt_7_FK_Ctrl/Tail_Jnt_8_FK_Grp/Tail_Jnt_8_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl/Tail_Jnt_5_FK_Grp/Tail_Jnt_5_FK_Ctrl/Tail_Jnt_6_FK_Grp/Tail_Jnt_6_FK_Ctrl/Tail_Jnt_7_FK_Grp/Tail_Jnt_7_FK_Ctrl/Tail_Jnt_8_FK_Grp/Tail_Jnt_8_FK_Ctrl/Tail_Tip_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Hip_FK_Grp/Hip_FK_Ctrl/Tail_Bone_FK_Grp/Tail_Bone_FK_Ctrl/Tail_Jnt_1_FK_Grp/Tail_Jnt_1_FK_Ctrl/Tail_Jnt_2_FK_Grp/Tail_Jnt_2_FK_Ctrl/Tail_Jnt_3_FK_Grp/Tail_Jnt_3_FK_Ctrl/Tail_Jnt_4_FK_Grp/Tail_Jnt_4_FK_Ctrl/Tail_Jnt_5_FK_Grp/Tail_Jnt_5_FK_Ctrl/Tail_Jnt_6_FK_Grp/Tail_Jnt_6_FK_Ctrl/Tail_Jnt_7_FK_Grp/Tail_Jnt_7_FK_Ctrl/Tail_Jnt_8_FK_Grp/Tail_Jnt_8_FK_Ctrl/Tail_Tip_FK_Grp/Tail_Tip_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/L_Shoulder_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/L_Shoulder_FK_Grp/L_Shoulder_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/L_Shoulder_FK_Grp/L_Shoulder_FK_Ctrl/L_Elbow_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/L_Shoulder_FK_Grp/L_Shoulder_FK_Ctrl/L_Elbow_FK_Grp/L_Elbow_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/L_Shoulder_FK_Grp/L_Shoulder_FK_Ctrl/L_Elbow_FK_Grp/L_Elbow_FK_Ctrl/L_Wrist_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/L_Shoulder_FK_Grp/L_Shoulder_FK_Ctrl/L_Elbow_FK_Grp/L_Elbow_FK_Ctrl/L_Wrist_FK_Grp/L_Wrist_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/Neck_Base_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/Neck_Base_FK_Grp/Neck_Base_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/Neck_Base_FK_Grp/Neck_Base_FK_Ctrl/Neck_Jnt_1_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/Neck_Base_FK_Grp/Neck_Base_FK_Ctrl/Neck_Jnt_1_FK_Grp/Neck_Jnt_1_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/Neck_Base_FK_Grp/Neck_Base_FK_Ctrl/Neck_Jnt_1_FK_Grp/Neck_Jnt_1_FK_Ctrl/Neck_Jnt_2_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/Neck_Base_FK_Grp/Neck_Base_FK_Ctrl/Neck_Jnt_1_FK_Grp/Neck_Jnt_1_FK_Ctrl/Neck_Jnt_2_FK_Grp/Neck_Jnt_2_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/Neck_Base_FK_Grp/Neck_Base_FK_Ctrl/Neck_Jnt_1_FK_Grp/Neck_Jnt_1_FK_Ctrl/Neck_Jnt_2_FK_Grp/Neck_Jnt_2_FK_Ctrl/Skull_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/Neck_Base_FK_Grp/Neck_Base_FK_Ctrl/Neck_Jnt_1_FK_Grp/Neck_Jnt_1_FK_Ctrl/Neck_Jnt_2_FK_Grp/Neck_Jnt_2_FK_Ctrl/Skull_FK_Grp/Skull_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/R_Shoulder_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/R_Shoulder_FK_Grp/R_Shoulder_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/R_Shoulder_FK_Grp/R_Shoulder_FK_Ctrl/R_Elbow_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/R_Shoulder_FK_Grp/R_Shoulder_FK_Ctrl/R_Elbow_FK_Grp/R_Elbow_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/R_Shoulder_FK_Grp/R_Shoulder_FK_Ctrl/R_Elbow_FK_Grp/R_Elbow_FK_Ctrl/R_Wrist_FK_Grp
+        weight: 1
+      - path: Transform/Transform 1/FK_System/COG_FK_Grp/COG_FK_Ctrl/Spine_FK_Grp/Spine_FK_Ctrl/R_Shoulder_FK_Grp/R_Shoulder_FK_Ctrl/R_Elbow_FK_Grp/R_Elbow_FK_Ctrl/R_Wrist_FK_Grp/R_Wrist_FK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System
+        weight: 1
+      - path: Transform/Transform 1/IK_System/L_Hip_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/L_Hip_IK_Grp/L_Hip_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/L_Hip_IK_Grp/L_Hip_IK_Ctrl/L_Ankle_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/L_Hip_IK_Grp/L_Hip_IK_Ctrl/L_Ankle_IK_Grp/L_Ankle_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/L_Shoulder_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/L_Shoulder_IK_Grp/L_Shoulder_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/L_Shoulder_IK_Grp/L_Shoulder_IK_Ctrl/L_Arm_Pole_Vector_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/L_Shoulder_IK_Grp/L_Shoulder_IK_Ctrl/L_Arm_Pole_Vector_IK_Grp/L_Arm_Pole_Vector_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/L_Shoulder_IK_Grp/L_Shoulder_IK_Ctrl/L_Wrist_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/L_Shoulder_IK_Grp/L_Shoulder_IK_Ctrl/L_Wrist_IK_Grp/L_Wrist_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Neck_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Neck_IK_Grp/Neck_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Neck_IK_Grp/Neck_IK_Ctrl/Neck_Pole_Vector_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Neck_IK_Grp/Neck_IK_Ctrl/Neck_Pole_Vector_IK_Grp/Neck_Pole_Vector_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Neck_IK_Grp/Neck_IK_Ctrl/Skull_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Neck_IK_Grp/Neck_IK_Ctrl/Skull_IK_Grp/Skull_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/R_Hip_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/R_Hip_IK_Grp/R_Hip_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/R_Hip_IK_Grp/R_Hip_IK_Ctrl/R_Ankle_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/R_Hip_IK_Grp/R_Hip_IK_Ctrl/R_Ankle_IK_Grp/R_Ankle_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/R_Shoulder_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/R_Shoulder_IK_Grp/R_Shoulder_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/R_Shoulder_IK_Grp/R_Shoulder_IK_Ctrl/R_Arm_Pole_Vector_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/R_Shoulder_IK_Grp/R_Shoulder_IK_Ctrl/R_Arm_Pole_Vector_IK_Grp/R_Arm_Pole_Vector_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/R_Shoulder_IK_Grp/R_Shoulder_IK_Ctrl/R_Wrist_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/R_Shoulder_IK_Grp/R_Shoulder_IK_Ctrl/R_Wrist_IK_Grp/R_Wrist_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Tail_Base_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Tail_Base_IK_Grp/Tail_Base_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Tail_Base_IK_Grp/Tail_Base_IK_Ctrl/Tail_Pole_Vector_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Tail_Base_IK_Grp/Tail_Base_IK_Ctrl/Tail_Pole_Vector_IK_Grp/Tail_Pole_Vector_IK_Ctrl
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Tail_Base_IK_Grp/Tail_Base_IK_Ctrl/Tail_Tip_IK_Grp
+        weight: 1
+      - path: Transform/Transform 1/IK_System/Tail_Base_IK_Grp/Tail_Base_IK_Ctrl/Tail_Tip_IK_Grp/Tail_Tip_IK_Ctrl
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
